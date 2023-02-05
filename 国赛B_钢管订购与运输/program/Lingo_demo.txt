@@ -1,0 +1,47 @@
+model:
+
+sets:
+factory/1..7/: s, f; ! s表示每个钢厂的最大供应量，f表示每个钢厂是否生产;
+node/1..15/:y, z, l; ! y表示向左铺设的长度，z表示向右铺设的长度，l表示两个结点之间的距离;
+link(factory, node):x, c; ! x表示采购方案，c表示价格;
+endsets
+
+data:
+s = 800	800	1000	2000	2000	2000	3000;
+
+l = 104, 301, 750, 606, 194, 205, 201, 680, 480, 300, 220, 210, 420, 500, 0;
+c = @ole("C:\Users\ASUS\OneDrive - njupt.edu.cn\Mathematical Contest in Modeling\国赛B_钢管订购与运输\program\Data.xlsx", "res");
+
+enddata
+
+! 目标函数 ;
+min = @sum(link(i, j):x(i, j)*c(i, j)) + 0.05 * @sum(node(j): y(j)^2 + y(j) + z(j)^2 + z(j));
+
+! 不超过产能;
+@for(factory(i): @sum(node(j):x(i, j)) <= s(i) * f(i));
+! 最少订购500;
+@for(factory(i): @sum(node(j):x(i, j)) >= 500 * f(i));
+! 左右铺设的长度应等于总订购量;
+@for(node(j):@sum(factory(i):x(i, j)) = z(j) + y(j));
+! 某结点向右的和下一个结点向左的距离应等于两个结点的距离;
+@for(node(j)|j#ne#15:z(j) + y(j + 1) = l(j));
+! 第一个结点不能向左铺;
+y(1) = 0;
+! 最后一个结点不能向右铺;
+z(15) = 0;
+! f为0-1变量数组;
+@for(factory: @bin(f));
+! 限制为整数;
+@for(link: @gin(x));
+@for(node: @gin(y));
+@for(node: @gin(z));
+res = @sum(link(i, j):x(i, j)*c(i, j)) + 0.05 * @sum(node(j): y(j)^2 + y(j) + z(j)^2 + z(j));
+
+! 写入数据到文件;
+data:
+@ole("C:\Users\ASUS\OneDrive - njupt.edu.cn\Mathematical Contest in Modeling\国赛B_钢管订购与运输\res.xlsx", "res") = x;
+@ole("C:\Users\ASUS\OneDrive - njupt.edu.cn\Mathematical Contest in Modeling\国赛B_钢管订购与运输\res.xlsx", "price") = res;
+@ole("C:\Users\ASUS\OneDrive - njupt.edu.cn\Mathematical Contest in Modeling\国赛B_钢管订购与运输\res.xlsx", "Y") = y;
+@ole("C:\Users\ASUS\OneDrive - njupt.edu.cn\Mathematical Contest in Modeling\国赛B_钢管订购与运输\res.xlsx", "z") = z;
+enddata
+end

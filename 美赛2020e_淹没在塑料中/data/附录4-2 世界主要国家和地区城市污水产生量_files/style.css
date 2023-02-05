@@ -1,0 +1,2073 @@
+* {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+BODY {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+P {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+B {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+DL {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+DD {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+TD {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+TH {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+INPUT {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+FORM {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+DIV {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+UL {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+LI {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px auto; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+:focus {
+	OUTLINE-WIDTH: 0px
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none
+}
+IFRAME {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none
+}
+OL {
+	LIST-STYLE-TYPE: none
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+IMG {
+	VERTICAL-ALIGN: middle
+}
+INPUT {
+	VERTICAL-ALIGN: middle
+}
+LABEL {
+	VERTICAL-ALIGN: middle
+}
+TABLE {
+	BORDER-COLLAPSE: collapse; BORDER-SPACING: 0
+}
+BODY {
+	COLOR: #333333; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; FONT: 12px/1.5 宋体,Arial,Tahoma,Helvetica,sans-serif; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+A {
+	BORDER-TOP-STYLE: none; CURSOR: pointer; TEXT-DECORATION: none; BORDER-BOTTOM-STYLE: none; COLOR: #333333; BORDER-RIGHT-STYLE: none; OUTLINE-STYLE: none; BORDER-LEFT-STYLE: none
+}
+A:hover {
+	COLOR: blue
+}
+.home {
+	WIDTH: 100%; BACKGROUND: url(home.gif) repeat-x left top; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px auto; PADDING-RIGHT: 0px
+}
+.top {
+	HEIGHT: 260px; WIDTH: 1000px; MARGIN: 0px auto
+}
+.top01 {
+	WIDTH: 1000px; FLOAT: left
+}
+.top02 {
+	WIDTH: 1000px; FLOAT: left
+}
+.top03 {
+	WIDTH: 1000px; FLOAT: left
+}
+.top01 {
+	HEIGHT: 37px; BACKGROUND: url(top01.gif) repeat-x left top; LINE-HEIGHT: 37px
+}
+.top01_a LI {
+	FLOAT: left; MARGIN: 0px 6px; _margin: 0px 4px
+}
+.top01_b LI {
+	FLOAT: left; MARGIN: 0px 6px; _margin: 0px 4px
+}
+.top01_a LI A {
+	COLOR: #2d3d4c; MARGIN: 0px 2px
+}
+.top01_b LI A {
+	COLOR: #2d3d4c; MARGIN: 0px 2px
+}
+.top01_a LI A:hover {
+	COLOR: blue
+}
+.top01_b LI A:hover {
+	COLOR: blue
+}
+.top_line {
+	WIDTH: 2px; BACKGROUND: url(top_line.gif) no-repeat left center
+}
+.top01_b {
+	FLOAT: left; MARGIN-LEFT: 25px; MARGIN-TOP: 5px; MARGIN-RIGHT: 25px
+}
+.top01_b LI {
+	COLOR: #fff; MARGIN: 0px
+}
+.top_search {
+	HEIGHT: 27px; BACKGROUND: #407fc2; LINE-HEIGHT: 27px
+}
+.top01_b .top_search A {
+	COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px
+}
+LI.top_search A:hover {
+	COLOR: #fff
+}
+.search {
+	BORDER-TOP: #afc4df 1px solid; HEIGHT: 25px; BORDER-RIGHT: #afc4df 1px solid; WIDTH: 140px; BORDER-BOTTOM: #afc4df 1px solid; FLOAT: left; BORDER-LEFT: #afc4df 1px solid; LINE-HEIGHT: 25px
+}
+.top02 {
+	HEIGHT: 142px; BACKGROUND: url(banner.jpg) no-repeat left top
+}
+.top03 {
+	HEIGHT: 80px; BACKGROUND: url(top03.gif) repeat-x left top
+}
+.top03_a {
+	FLOAT: left
+}
+.top03_a LI {
+	FLOAT: left
+}
+.top03_a {
+	PADDING-LEFT: 15px
+}
+.top03_a LI A IMG {
+	FLOAT: left; PADDING-TOP: 8px
+}
+.top03_a01 {
+	WIDTH: 90px; FLOAT: left; MARGIN-TOP: 5px
+}
+.top03_a01 LI {
+	WIDTH: 90px
+}
+.top03_a01 LI A {
+	COLOR: #032e57; MARGIN-LEFT: 5px; LINE-HEIGHT: 23px
+}
+.top03_a01 LI A:hover {
+	BORDER-BOTTOM: #b71d01 2px solid
+}
+.on {
+	BORDER-BOTTOM: #b71d01 2px solid
+}
+.top03 {
+	POSITION: relative; Z-INDEX: 9999
+}
+.top04 {
+	WIDTH: 88px; BACKGROUND: none transparent scroll repeat 0% 0%; POSITION: absolute; LEFT: 75px; Z-INDEX: 9999; TOP: 0px
+}
+.top04 .one1 {
+	BACKGROUND: url(top04.gif) repeat-x 0px -5px; POSITION: absolute; PADDING-BOTTOM: 10px; PADDING-LEFT: 2px; Z-INDEX: 9999; DISPLAY: none; TOP: 0px
+}
+.top04 .one2 {
+	BACKGROUND: url(top04.gif) repeat-x 0px -5px; POSITION: absolute; PADDING-BOTTOM: 10px; PADDING-LEFT: 2px; Z-INDEX: 9999; DISPLAY: none; TOP: 0px
+}
+.top04 .one3 {
+	BACKGROUND: url(top04.gif) repeat-x 0px -5px; POSITION: absolute; PADDING-BOTTOM: 10px; PADDING-LEFT: 2px; Z-INDEX: 9999; DISPLAY: none; TOP: 0px
+}
+.top04 .one4 {
+	BACKGROUND: url(top04.gif) repeat-x 0px -5px; POSITION: absolute; PADDING-BOTTOM: 10px; PADDING-LEFT: 2px; Z-INDEX: 9999; DISPLAY: none; TOP: 0px
+}
+.top04 .one5 {
+	BACKGROUND: url(top04.gif) repeat-x 0px -5px; POSITION: absolute; PADDING-BOTTOM: 10px; PADDING-LEFT: 2px; Z-INDEX: 9999; DISPLAY: none; TOP: 0px
+}
+.top04 .one6 {
+	BACKGROUND: url(top04.gif) repeat-x 0px -5px; POSITION: absolute; PADDING-BOTTOM: 10px; PADDING-LEFT: 2px; Z-INDEX: 9999; DISPLAY: none; TOP: 0px
+}
+.top04 .one1 {
+	LEFT: 0px
+}
+.top04 .one2 {
+	LEFT: 163px
+}
+.top04 .one3 {
+	LEFT: 326px
+}
+.top04 .one4 {
+	LEFT: 489px
+}
+.top04 .one5 {
+	LEFT: 652px
+}
+.top04 .one6 {
+	LEFT: 815px
+}
+#nav .top04 .sfhover {
+	DISPLAY: block
+}
+.main {
+	WIDTH: 1000px; MARGIN: 0px auto
+}
+.iframe_top {
+	HEIGHT: 260px; WIDTH: 1000px
+}
+.iframe_bottom {
+	HEIGHT: 175px; WIDTH: 1000px; BACKGROUND: #1e67a7; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px auto; PADDING-RIGHT: 0px
+}
+.dang {
+	HEIGHT: 35px; WIDTH: 1000px; BACKGROUND: url(01.gif) repeat-x left bottom; FLOAT: left; MARGIN-TOP: 10px
+}
+.dang_a {
+	FONT-SIZE: 12px; FONT-WEIGHT: bold; MARGIN-LEFT: 8px
+}
+.center {
+	WIDTH: 1000px; FLOAT: left; MARGIN-TOP: 10px
+}
+.center_left {
+	WIDTH: 240px; BACKGROUND: url(center_left.gif) no-repeat right top; FLOAT: left; PADDING-LEFT: 10px; MIN-HEIGHT: 600px; _padding-left: 10px
+}
+.center_left_top {
+	HEIGHT: 13px; WIDTH: 240px; BACKGROUND: url(center_left_top.png) no-repeat left top; FLOAT: left
+}
+.center_left_bottom {
+	HEIGHT: 13px; WIDTH: 240px; BACKGROUND: url(center_left_bottom.png) no-repeat left top; FLOAT: left
+}
+.center_midd {
+	WIDTH: 240px; FLOAT: left; MARGIN-LEFT: 1px; BORDER-LEFT: #dddddd 3px solid
+}
+.center_left_menu {
+	WIDTH: 235px; FLOAT: left; MARGIN: 5px 0px 10px
+}
+.center_left_menu02 {
+	WIDTH: 235px; FLOAT: left; MARGIN: 5px 0px 10px
+}
+.center_left_menu A {
+	FONT-SIZE: 12px; HEIGHT: 45px; WIDTH: 180px; BORDER-BOTTOM: #ccdbe8 1px solid; FLOAT: left; FONT-WEIGHT: bold; COLOR: #13579a; PADDING-LEFT: 15px; MARGIN-LEFT: 30px
+}
+.center_left_menu02 A {
+	FONT-SIZE: 14px; HEIGHT: 45px; WIDTH: 180px; BORDER-BOTTOM: #ccdbe8 1px solid; FLOAT: left; FONT-WEIGHT: bold; COLOR: #13579a; PADDING-LEFT: 15px; MARGIN-LEFT: 30px; LINE-HEIGHT: 45px
+}
+.center_menubt {
+	HEIGHT: 20px; FLOAT: left; MARGIN-TOP: 11px; LINE-HEIGHT: 14px
+}
+.center_left_menu A {
+	BACKGROUND: url(jt_h.gif) no-repeat 0px 13px
+}
+.center_left_menu LI A:hover {
+	BORDER-TOP-STYLE: none; HEIGHT: 46px; WIDTH: 190px; BORDER-BOTTOM-STYLE: none; COLOR: #fff; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 40px; MARGIN-LEFT: 5px; BORDER-LEFT-STYLE: none
+}
+.center_left_menu LI A.menu {
+	BORDER-TOP-STYLE: none; HEIGHT: 46px; WIDTH: 190px; BORDER-BOTTOM-STYLE: none; COLOR: #fff; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 40px; MARGIN-LEFT: 5px; BORDER-LEFT-STYLE: none
+}
+.center_left_menu02 LI A:hover {
+	BORDER-TOP-STYLE: none; HEIGHT: 46px; WIDTH: 190px; BORDER-BOTTOM-STYLE: none; COLOR: #fff; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 40px; MARGIN-LEFT: 5px; BORDER-LEFT-STYLE: none
+}
+.center_left_menu02 LI A.menu01 {
+	BORDER-TOP-STYLE: none; HEIGHT: 46px; WIDTH: 190px; BORDER-BOTTOM-STYLE: none; COLOR: #fff; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 40px; MARGIN-LEFT: 5px; BORDER-LEFT-STYLE: none
+}
+.center_left_menu LI A:hover {
+	BACKGROUND: url(center-menu.gif) no-repeat right top
+}
+.center_left_menu LI A.menu {
+	BACKGROUND: url(center-menu.gif) no-repeat right top
+}
+.center_left_menu02 LI A:hover {
+	BACKGROUND: url(center-menu1.gif) no-repeat right center
+}
+.center_left_menu02 LI A.menu01 {
+	BACKGROUND: url(center-menu1.gif) no-repeat right center
+}
+.center_list {
+	WIDTH: 728px; FLOAT: left; MARGIN-LEFT: 20px; _margin-left: 0px
+}
+.center_list_tit {
+	FONT-SIZE: 14px; HEIGHT: 30px; WIDTH: 728px; FONT-WEIGHT: bold; COLOR: #1e5f87
+}
+.center_list_tit IMG {
+	MARGIN-RIGHT: 5px
+}
+.center_list_tit01 IMG {
+	MARGIN-RIGHT: 5px
+}
+.center_list_tit01 {
+	HEIGHT: 25px; WIDTH: 700px; FLOAT: left; LINE-HEIGHT: 25px
+}
+.center_list_tit01 .genduo01 {
+	FONT-SIZE: 12px; FLOAT: right; COLOR: #555; MARGIN-RIGHT: 20px
+}
+.center_list_contlist .center_ul_list {
+	LIST-STYLE-TYPE: none; BORDER-TOP: #4175cc 3px solid; FLOAT: left; PADDING-TOP: 5px; MARGIN: 0px
+}
+.center_list_cont {
+	BORDER-RIGHT: #2e76bc 2px solid; WIDTH: 687px; BACKGROUND: url(list_bg.gif) repeat-x left top; FLOAT: left; PADDING-BOTTOM: 15px; PADDING-TOP: 30px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; _padding: 30px 0px 0px 0px; _width: 670px
+}
+.tongjizixun_center {
+	BORDER-RIGHT: #2e76bc 2px solid; WIDTH: 687px; BACKGROUND: url(list_bg.gif) repeat-x left top; FLOAT: left; PADDING-BOTTOM: 15px; PADDING-TOP: 30px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; _padding: 30px 0px 0px 0px; _width: 670px
+}
+.center_list_contlist {
+	BORDER-RIGHT: #2e76bc 2px solid; WIDTH: 687px; BACKGROUND: url(list_bg.gif) repeat-x left top; FLOAT: left; PADDING-BOTTOM: 15px; PADDING-TOP: 30px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; _padding: 30px 0px 0px 0px; _width: 670px
+}
+.cont_tit {
+	WIDTH: 670px; FLOAT: left
+}
+.cont_tit01 {
+	FONT-SIZE: 14px; FLOAT: left; FONT-WEIGHT: bold; COLOR: #1e5f87
+}
+.cont_tit03 {
+	FONT-SIZE: 12px; FLOAT: left; COLOR: #333
+}
+.cont_tit02 {
+	FONT-SIZE: 12px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #9d9d9d
+}
+.cont_n {
+	WIDTH: 670px; FLOAT: left; LINE-HEIGHT: 25px
+}
+.cont_n A {
+	COLOR: #b9050d
+}
+.center_list_contlist LI {
+	WIDTH: 680px; FLOAT: left; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.center_list_cont LI {
+	WIDTH: 680px; FLOAT: left; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.cont_line {
+	HEIGHT: 2px; BACKGROUND: url(line.gif) repeat-x left center
+}
+.fenye {
+	WIDTH: 660px; FLOAT: left; PADDING-BOTTOM: 15px; TEXT-ALIGN: center; PADDING-LEFT: 40px
+}
+.fenye LI {
+	FLOAT: left
+}
+.fenye .ye {
+	FLOAT: left; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 12px; MARGIN-LEFT: 10px; PADDING-RIGHT: 12px
+}
+.ye_on1 {
+	FLOAT: left; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 12px; MARGIN-LEFT: 10px; PADDING-RIGHT: 12px
+}
+.fenye .ye {
+	BORDER-TOP: #94bfd2 1px solid; BORDER-RIGHT: #94bfd2 1px solid; BACKGROUND: #cae5f6; BORDER-BOTTOM: #94bfd2 1px solid; BORDER-LEFT: #94bfd2 1px solid
+}
+.ye_on1 {
+	BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid; BACKGROUND: #eeeeee; BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid
+}
+.fenye A:hover {
+	BORDER-TOP: #9f0306 1px solid; BORDER-RIGHT: #9f0306 1px solid; BACKGROUND: #cc1e1f; BORDER-BOTTOM: #9f0306 1px solid; COLOR: #fff; BORDER-LEFT: #9f0306 1px solid
+}
+.fenye A.ye_on2 {
+	BORDER-TOP: #9f0306 1px solid; BORDER-RIGHT: #9f0306 1px solid; BACKGROUND: #cc1e1f; BORDER-BOTTOM: #9f0306 1px solid; COLOR: #fff; BORDER-LEFT: #9f0306 1px solid
+}
+.ye_input {
+	BORDER-TOP: #e2e2e2 1px solid; HEIGHT: 28px; BORDER-RIGHT: #e2e2e2 1px solid; WIDTH: 30px; BORDER-BOTTOM: #e2e2e2 1px solid; FLOAT: left; TEXT-ALIGN: center; BORDER-LEFT: #e2e2e2 1px solid; LINE-HEIGHT: 28px
+}
+.center_xilan {
+	WIDTH: 923px; BACKGROUND: url(center_right.jpg) no-repeat left top; FLOAT: left; PADDING-BOTTOM: 5px; TEXT-ALIGN: left; PADDING-TOP: 5px; PADDING-LEFT: 50px; MIN-HEIGHT: 800px; PADDING-RIGHT: 25px
+}
+.dyin {
+	BORDER-TOP: #003c74 1px solid; HEIGHT: 20px; BORDER-RIGHT: #003c74 1px solid; WIDTH: 80px; BACKGROUND: url(bt01.gif) repeat-x left center; BORDER-BOTTOM: #003c74 1px solid; FLOAT: right; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 5px; MARGIN: 0px 5px; BORDER-LEFT: #003c74 1px solid; PADDING-RIGHT: 5px
+}
+.gbi {
+	BORDER-TOP: #003c74 1px solid; HEIGHT: 20px; BORDER-RIGHT: #003c74 1px solid; WIDTH: 80px; BACKGROUND: url(bt01.gif) repeat-x left center; BORDER-BOTTOM: #003c74 1px solid; FLOAT: right; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 5px; MARGIN: 0px 5px; BORDER-LEFT: #003c74 1px solid; PADDING-RIGHT: 5px
+}
+.center_xilan .xilan_tit {
+	FONT-SIZE: 26px; FONT-FAMILY: 黑体; FONT-WEIGHT: bold; COLOR: #1f5781; TEXT-ALIGN: center; MARGIN-TOP: 40px
+}
+.xilan_titf {
+	FONT-SIZE: 14px; WIDTH: 920px; BACKGROUND: url(line.gif) repeat-x left bottom; FLOAT: left; COLOR: #333; PADDING-BOTTOM: 15px; PADDING-TOP: 27px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.xilan_con {
+	WIDTH: 948px; FLOAT: left; TEXT-ALIGN: left; LINE-HEIGHT: 25px
+}
+.center_tongjifuwu {
+	HEIGHT: 46px; WIDTH: 998px; BACKGROUND: url(01.gif) repeat-x left bottom; FLOAT: left
+}
+.tongjifuwu_cont {
+	WIDTH: 998px; FLOAT: left; MARGIN-TOP: 10px
+}
+.tongjifuwu_left {
+	FLOAT: left
+}
+.tongjifuwu_left02 {
+	FLOAT: left
+}
+.tongjifuwu_left02_a {
+	WIDTH: 220px; FLOAT: left; MARGIN-RIGHT: 15px
+}
+.tongjifuwu_left01 {
+	FLOAT: left
+}
+.tongjifuwu_left02_b {
+	WIDTH: 220px; FLOAT: left
+}
+.tongjifuwu_left02_c {
+	WIDTH: 220px; FLOAT: left; MARGIN-RIGHT: 15px
+}
+.a_01 {
+	HEIGHT: 21px; WIDTH: 17px; BACKGROUND: url(07.jpg) no-repeat left top
+}
+.a_02 {
+	HEIGHT: 21px; WIDTH: 190px; BACKGROUND: url(09.jpg) repeat-x left top
+}
+.a_03 {
+	HEIGHT: 21px; WIDTH: 17px; BACKGROUND: url(10.jpg) no-repeat left top
+}
+.a_04 {
+	HEIGHT: 21px; WIDTH: 17px; BACKGROUND: url(11.jpg) no-repeat left top
+}
+.a_05 {
+	HEIGHT: 21px; WIDTH: 190px; BACKGROUND: url(13.jpg) repeat-x left top
+}
+.a_06 {
+	HEIGHT: 21px; WIDTH: 17px; BACKGROUND: url(12.jpg) no-repeat left top
+}
+.a_07 {
+	WIDTH: 17px; BACKGROUND: url(08.jpg) repeat-y left top
+}
+.a_08 {
+	WIDTH: 17px; BACKGROUND: url(14.jpg) repeat-y left top
+}
+.a_bg {
+	MARGIN-BOTTOM: 5px; WIDTH: 190px; FLOAT: left; MARGIN-TOP: 5px
+}
+.a_bg IMG {
+	FLOAT: left
+}
+.a_bg1 {
+	FONT-SIZE: 14px; HEIGHT: 23px; BACKGROUND: url(j.jpg) repeat-x left top; FLOAT: left; FONT-WEIGHT: bold; COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.a_bg2 {
+	FLOAT: left; MARGIN-TOP: 5px
+}
+.a_bg2 IMG {
+	FLOAT: left
+}
+.a_bg3 {
+	FONT-SIZE: 14px; HEIGHT: 23px; BACKGROUND: url(j.jpg) repeat-x left top; FLOAT: left; FONT-WEIGHT: bold; COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.a_ul {
+	WIDTH: 180px; FLOAT: left; PADDING-LEFT: 10px; MARGIN-TOP: 10px
+}
+.a_ul LI {
+	_height: 25px
+}
+.a_ul LI A {
+	COLOR: #666666; LINE-HEIGHT: 25px
+}
+.a_ul LI IMG {
+	MARGIN-RIGHT: 5px
+}
+.a_bg4 {
+	HEIGHT: 80px; WIDTH: 190px; FLOAT: left; MARGIN: 15px 0px
+}
+.a_bg4 LI {
+	WIDTH: 90px; FLOAT: left; COLOR: #3e5992; TEXT-ALIGN: center
+}
+.a_bg5 {
+	WIDTH: 190px; FLOAT: left; PADDING-BOTTOM: 34px; PADDING-TOP: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.a_bg5 LI {
+	WIDTH: 95px; FLOAT: left; TEXT-ALIGN: center
+}
+.a_bg5 A {
+	TEXT-DECORATION: underline; WIDTH: 95px; FLOAT: left; COLOR: #064174; MARGIN-TOP: 12px
+}
+.tongjifuwu_right {
+	WIDTH: 295px; FLOAT: left; MARGIN-LEFT: 10px
+}
+.tonjifuwu_right_b {
+	FONT-SIZE: 14px; HEIGHT: 35px; WIDTH: 295px; BACKGROUND: url(b.jpg) repeat-y left top; FLOAT: left; FONT-WEIGHT: bold; COLOR: #d36711; TEXT-ALIGN: center; LINE-HEIGHT: 35px
+}
+.tonjifuwu_right_c {
+	WIDTH: 295px; BACKGROUND: url(c.jpg) repeat-y left top; FLOAT: left
+}
+.tonjifuwu_right_p {
+	FONT-SIZE: 12px; WIDTH: 270px; FLOAT: left; COLOR: #fff; PADDING-BOTTOM: 9px; PADDING-TOP: 8px; PADDING-LEFT: 20px; LINE-HEIGHT: 21px; PADDING-RIGHT: 0px; TEXT-INDENT: 20px
+}
+.tonjifuwu_right_a {
+	HEIGHT: 44px; WIDTH: 295px; FLOAT: left
+}
+.tonjifuwu_right_d {
+	WIDTH: 295px; FLOAT: left; MARGIN-TOP: -2px
+}
+.center_wenzhang {
+	MARGIN-BOTTOM: 10px; WIDTH: 998px; FLOAT: left; MARGIN-TOP: 10px
+}
+.wenzhang_tit {
+	FONT-SIZE: 14px; HEIGHT: 40px; WIDTH: 978px; BACKGROUND: url(list_bg.gif) repeat-x left bottom; FLOAT: left; FONT-WEIGHT: bold; COLOR: #15518b; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px
+}
+.wenzhang_tit01 {
+	FONT-SIZE: 12px; FLOAT: right; FONT-WEIGHT: 400; COLOR: #333; MARGIN-RIGHT: 20px
+}
+.wenzhang_tit01 A {
+	FONT-WEIGHT: 400; COLOR: #15518b; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.wenzhang_list {
+	WIDTH: 960px; FLOAT: left; MARGIN-LEFT: 20px
+}
+.wenzhang_list LI {
+	WIDTH: 960px; FLOAT: left; LINE-HEIGHT: 25px
+}
+.wenzhang_list LI A {
+	COLOR: #103e60; MARGIN-LEFT: 5px
+}
+.center_tongjigongzuo {
+	WIDTH: 998px; FLOAT: left; MARGIN: 0px
+}
+.center_tongjishuju {
+	WIDTH: 998px; FLOAT: left; MARGIN: 0px
+}
+.center_tongjizhishi {
+	WIDTH: 998px; FLOAT: left; MARGIN: 0px
+}
+.center_zhuantierji {
+	WIDTH: 998px; FLOAT: left; MARGIN: 0px
+}
+.center_zoujintongji {
+	WIDTH: 998px; FLOAT: left; MARGIN: 0px
+}
+.tongjigongzuo_01 {
+	WIDTH: 998px; FLOAT: left; MARGIN-TOP: 10px
+}
+.tongjizhishi_01 {
+	WIDTH: 998px; FLOAT: left; MARGIN-TOP: 10px
+}
+.tongjigongzuo_01_a {
+	BORDER-TOP: #bbb 1px solid; BORDER-RIGHT: #bbb 1px solid; WIDTH: 450px; BORDER-BOTTOM: #bbb 1px solid; FLOAT: left; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 20px; BORDER-LEFT: #bbb 1px solid; PADDING-RIGHT: 20px
+}
+.tjgz_01_a {
+	OVERFLOW: hidden; MARGIN-BOTTOM: 10px; HEIGHT: 286px; WIDTH: 443px; POSITION: relative; MARGIN-LEFT: 0px
+}
+.tjgz_01line {
+	MARGIN-BOTTOM: 10px; WIDTH: 443px; BORDER-BOTTOM: #ccc 1px solid; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; LINE-HEIGHT: 22px; PADDING-RIGHT: 0px
+}
+.tzgz_01_genduo {
+	FONT-SIZE: 12px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #636262
+}
+A.tzgz_01_genduo:hover {
+	FONT-SIZE: 12px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #636262
+}
+.tongjigongzuo_01_b {
+	WIDTH: 475px; FLOAT: left; MARGIN-LEFT: 10px
+}
+.tjgz_dt_tit {
+	WIDTH: 475px
+}
+.tjgz_dt_tit IMG {
+	FLOAT: left
+}
+.tjgz_dt_tit A {
+	HEIGHT: 28px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #636262; LINE-HEIGHT: 25px; MARGIN-RIGHT: 5px
+}
+.center_hot_tit A {
+	HEIGHT: 28px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #636262; LINE-HEIGHT: 25px; MARGIN-RIGHT: 5px
+}
+.tzgg_genduo A {
+	HEIGHT: 28px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #636262; LINE-HEIGHT: 25px; MARGIN-RIGHT: 5px
+}
+.news_tit A {
+	HEIGHT: 28px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #636262; LINE-HEIGHT: 25px; MARGIN-RIGHT: 5px
+}
+.tongjizhishi_01_b_tit A {
+	HEIGHT: 28px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #636262; LINE-HEIGHT: 25px; MARGIN-RIGHT: 5px
+}
+.tjzs_genduoa A {
+	HEIGHT: 28px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #636262; LINE-HEIGHT: 25px; MARGIN-RIGHT: 5px
+}
+.tjzs_genduob A {
+	HEIGHT: 28px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #636262; LINE-HEIGHT: 25px; MARGIN-RIGHT: 5px
+}
+.ztej_top A {
+	HEIGHT: 28px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #636262; LINE-HEIGHT: 25px; MARGIN-RIGHT: 5px
+}
+.tjgz_dt_cont {
+	BORDER-TOP: #dddddd 1px solid; BORDER-RIGHT: #dddddd 1px solid; WIDTH: 445px; BACKGROUND: url(tjdt_01.gif) no-repeat right top; BORDER-BOTTOM: #dddddd 1px solid; FLOAT: left; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 15px; BORDER-LEFT: #dddddd 1px solid; PADDING-RIGHT: 15px
+}
+.tjgz_dt_cont .dt_tit {
+	FONT-SIZE: 14px; WIDTH: 445px; FLOAT: left; FONT-WEIGHT: bold
+}
+.tjgz_dt_cont .dt_cont {
+	FONT-SIZE: 12px; WIDTH: 445px; FLOAT: left; COLOR: #436981; MARGIN-TOP: 10px; LINE-HEIGHT: 22px
+}
+.tjgz_list_cont {
+	WIDTH: 470px; FLOAT: left; MARGIN-TOP: 10px
+}
+.tjgz_list_cont LI {
+	HEIGHT: 24px; WIDTH: 470px; FLOAT: left; LINE-HEIGHT: 24px
+}
+.tjgz_list_cont LI IMG {
+	MARGIN-LEFT: 5px; MARGIN-RIGHT: 10px
+}
+.tongjigongzuo_02 {
+	WIDTH: 998px; FLOAT: left; MARGIN-TOP: 20px
+}
+.tongjizhishi_02 {
+	WIDTH: 998px; FLOAT: left; MARGIN-TOP: 20px
+}
+.tongjigongzuo_02_a {
+	BORDER-TOP: #c2c2c2 1px solid; BORDER-RIGHT: #c2c2c2 1px solid; WIDTH: 491px; BORDER-BOTTOM: #c2c2c2 1px solid; FLOAT: left; PADDING-BOTTOM: 15px; BORDER-LEFT: #c2c2c2 1px solid
+}
+.tzgg_tit {
+	WIDTH: 43px; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-TOP: -13px; _margin-left: 5px
+}
+.tzgg_genduo {
+	WIDTH: 430px; FLOAT: left
+}
+.tzgg_ul {
+	WIDTH: 430px; FLOAT: left
+}
+.tzgg_ul LI {
+	WIDTH: 430px; FLOAT: left; LINE-HEIGHT: 25px; _height: 25px
+}
+.tzgg_ul LI IMG {
+	MARGIN-RIGHT: 10px
+}
+.tongjigongzuo_02_b {
+	BORDER-TOP: #c2c2c2 1px solid; BORDER-RIGHT: #c2c2c2 1px solid; WIDTH: 491px; BACKGROUND: url(news_cont.gif) no-repeat right bottom; BORDER-BOTTOM: #c2c2c2 1px solid; FLOAT: left; PADDING-BOTTOM: 7px; MARGIN-LEFT: 10px; BORDER-LEFT: #c2c2c2 1px solid
+}
+.news_tit {
+	HEIGHT: 40px; WIDTH: 491px; BACKGROUND: url(bt01.gif) repeat-x left bottom; BORDER-BOTTOM: #1c7abf 2px solid; FLOAT: left
+}
+.tjzs_genduoa {
+	HEIGHT: 40px; WIDTH: 491px; BACKGROUND: url(bt01.gif) repeat-x left bottom; BORDER-BOTTOM: #1c7abf 2px solid; FLOAT: left
+}
+.news_tit IMG {
+	FLOAT: left; MARGIN-LEFT: 20px; MARGIN-TOP: 12px
+}
+.tjzs_genduoa IMG {
+	FLOAT: left; MARGIN-LEFT: 20px; MARGIN-TOP: 12px
+}
+.tongjizhishi_01_a .tjzs_genduoa IMG {
+	FLOAT: left; MARGIN-LEFT: 20px; MARGIN-TOP: 12px
+}
+.news_tit A {
+	MARGIN-TOP: 10px
+}
+.news_cont {
+	WIDTH: 491px; FLOAT: left
+}
+.gongbao_list {
+	WIDTH: 491px; FLOAT: left
+}
+.news_cont_img {
+	WIDTH: 471px; FLOAT: left; MARGIN: 0px 10px; _margin: 0 5px 0 5px
+}
+.news_cont_img .news_cont_l {
+	CURSOR: pointer; WIDTH: 15px; FLOAT: left
+}
+.news_cont_img .news_cont_r {
+	CURSOR: pointer; WIDTH: 15px; FLOAT: left
+}
+.news_cont_m {
+	WIDTH: 440px; FLOAT: left; MARGIN-TOP: 15px; _height: 130px; _overflow: hidden
+}
+.news_cont_m LI {
+	FLOAT: left; _height: 130px
+}
+.news_cont_m LI A {
+	FONT-SIZE: 12px; WIDTH: 144px; FLOAT: left; TEXT-ALIGN: center; _width: 140px
+}
+.news_cont_m LI IMG {
+	HEIGHT: 88px; WIDTH: 132px; FLOAT: left; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; _padding: 5px 2px
+}
+.news_line {
+	HEIGHT: 110px; WIDTH: 1px; FLOAT: left; MARGIN: -15px 1px 0px; BORDER-LEFT: #dad9d9 1px solid; _margin: 0px 1px 0 1px; _height: 100px
+}
+.news_ul {
+	WIDTH: 450px; BACKGROUND: url(line.gif) repeat-x left top; FLOAT: left; PADDING-TOP: 10px; MARGIN-LEFT: 10px; MARGIN-TOP: 10px
+}
+.news_ul LI {
+	HEIGHT: 22px; WIDTH: 450px; FLOAT: left; LINE-HEIGHT: 22px
+}
+.news_ul LI IMG {
+	MARGIN-RIGHT: 10px
+}
+.center_tongjishuju01 {
+	WIDTH: 490px; FLOAT: left
+}
+.center_tongjishuju02 {
+	WIDTH: 490px; FLOAT: left
+}
+.center_tongjishuju02 {
+	MARGIN-LEFT: 15px; _margin-left: 10px
+}
+.tongjishuju_02_b {
+	BORDER-TOP: #c2c2c2 1px solid; BORDER-RIGHT: #c2c2c2 1px solid; WIDTH: 491px; BACKGROUND: url(news_cont.gif) no-repeat right bottom; BORDER-BOTTOM: #c2c2c2 1px solid; FLOAT: left; PADDING-BOTTOM: 7px; BORDER-LEFT: #c2c2c2 1px solid
+}
+.center_shuju_yugao {
+	BORDER-TOP: #c2c2c2 1px solid; BORDER-RIGHT: #c2c2c2 1px solid; WIDTH: 491px; BACKGROUND: url(news_cont.gif) no-repeat right bottom; BORDER-BOTTOM: #c2c2c2 1px solid; FLOAT: left; PADDING-BOTTOM: 7px; BORDER-LEFT: #c2c2c2 1px solid
+}
+.gongbao_list {
+	HEIGHT: 325px; PADDING-BOTTOM: 19px
+}
+.shuju_fabu {
+	WIDTH: 420px; FLOAT: left; PADDING-BOTTOM: 10px; PADDING-TOP: 15px; PADDING-LEFT: 15px; MARGIN-LEFT: 18px; PADDING-RIGHT: 15px
+}
+.fabu_tit {
+	FONT-SIZE: 24px; FONT-FAMILY: 微软雅黑; WIDTH: 420px; FLOAT: left; TEXT-ALIGN: center
+}
+.fabu_p {
+	WIDTH: 420px; COLOR: #666666; LINE-HEIGHT: 22px
+}
+.fabu_p A {
+	COLOR: #c10606
+}
+.shuju_ul {
+	BORDER-TOP: #666 2px solid; WIDTH: 470px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; PADDING-BOTTOM: 10px
+}
+.shuju_ul LI {
+	HEIGHT: 25px; WIDTH: 470px; FLOAT: left; LINE-HEIGHT: 25px
+}
+.shuju_ul IMG {
+	MARGIN-LEFT: 10px; MARGIN-TOP: 5px
+}
+.shuju_ul LI A {
+	FLOAT: left
+}
+.shuju_time {
+	FLOAT: right; COLOR: #666; MARGIN-RIGHT: 10px
+}
+.center_shuju_yugao {
+	BORDER-TOP-STYLE: none; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-BOTTOM-STYLE: none; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px 0px 10px; BORDER-LEFT-STYLE: none; PADDING-RIGHT: 0px
+}
+.tab {
+	BORDER-TOP: #c7ced1 1px solid; BORDER-RIGHT: #c7ced1 1px solid; WIDTH: 238px; BORDER-BOTTOM: #c7ced1 1px solid; FLOAT: left; BORDER-LEFT: #c7ced1 1px solid
+}
+.center_fabuyg {
+	BORDER-TOP: #c7ced1 1px solid; BORDER-RIGHT: #c7ced1 1px solid; WIDTH: 238px; BORDER-BOTTOM: #c7ced1 1px solid; FLOAT: left; BORDER-LEFT: #c7ced1 1px solid
+}
+.center_tjshuju {
+	WIDTH: 238px
+}
+.center_tjshuju TD {
+	BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid
+}
+.tjsj_tit {
+	FONT-SIZE: 20px; HEIGHT: 40px; FONT-FAMILY: 微软雅黑; BACKGROUND: url(bt01.gif) repeat-x left top; BORDER-BOTTOM: #c7ced1 2px solid; COLOR: #c9140b; LINE-HEIGHT: 40px
+}
+.fabu_yg_tit {
+	FONT-SIZE: 20px; HEIGHT: 40px; FONT-FAMILY: 微软雅黑; BACKGROUND: url(bt01.gif) repeat-x left top; BORDER-BOTTOM: #c7ced1 2px solid; COLOR: #c9140b; LINE-HEIGHT: 40px
+}
+.tjsj_tit IMG {
+	FLOAT: left; MARGIN-TOP: 12px
+}
+.center_tjshuju TD.tjsj_tithome {
+	BACKGROUND: url(bt01.gif) repeat-x left top; BORDER-BOTTOM: #c7ced1 2px solid
+}
+.tjsj_tithome IMG {
+	FLOAT: left; MARGIN-LEFT: 8px; MARGIN-TOP: -2px
+}
+.tjsj_tit01 {
+	BACKGROUND: url(bt01.gif) repeat-x left top
+}
+.tjsj_tit01 A {
+	BACKGROUND: url(home05.png) no-repeat left center; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 25px; PADDING-RIGHT: 0px
+}
+.tjsj_linehome {
+	BACKGROUND: url(top03_a.png) no-repeat left center; POSITION: relative
+}
+.center_fabuyg {
+	BACKGROUND: #ececec; MARGIN-LEFT: 11px
+}
+.fabu_yg_tit {
+	BORDER-BOTTOM: #be2e0a 2px solid; COLOR: #064174
+}
+.fabu_yg_cont {
+	HEIGHT: 112px; WIDTH: 238px; OVERFLOW-X: hidden; OVERFLOW-Y: scroll; FLOAT: left; PADDING-BOTTOM: 10px
+}
+.yg_cont {
+	WIDTH: 205px; FLOAT: left; COLOR: #273f5f; MARGIN-LEFT: 10px; MARGIN-TOP: 0px
+}
+.yg_cont LI {
+	WIDTH: 205px; FLOAT: left; PADDING-TOP: 4px
+}
+.fabu_cont_ti {
+	BACKGROUND: url(fb_01.gif) repeat-x left top; FLOAT: left; COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px
+}
+.gongbao_cont {
+	WIDTH: 145px; POSITION: relative; FLOAT: left; MARGIN-LEFT: 15px; MARGIN-TOP: 20px
+}
+.gongbao_cont DT A.flip {
+	HEIGHT: 32px; WIDTH: 130px; FLOAT: left; COLOR: #056597; TEXT-ALIGN: left; PADDING-LEFT: 15px; LINE-HEIGHT: 32px
+}
+.gongbao_cont DL IMG {
+	MARGIN-RIGHT: 5px
+}
+.gongbao_cont_l LI IMG {
+	MARGIN-RIGHT: 5px
+}
+.shuju_gongbao_list .gongbao_cont {
+	WIDTH: 100%; POSITION: relative; FLOAT: left; MARGIN: 9px 0px 0px
+}
+.shuju_gongbao_list .gongbao_cont DL {
+	WIDTH: 33%; FLOAT: left
+}
+.shuju_gongbao_list .gongbao_cont DT A.flip {
+	HEIGHT: 25px; WIDTH: 90%; FLOAT: left; COLOR: #056597; TEXT-ALIGN: left; PADDING-LEFT: 15px; LINE-HEIGHT: 30px; _margin-top: 5px
+}
+.shuju_gongbao_list .gongbao_cont DT A {
+	HEIGHT: 25px; WIDTH: 90%; FLOAT: left; COLOR: #056597; TEXT-ALIGN: left; PADDING-LEFT: 15px; LINE-HEIGHT: 30px; _margin-top: 5px
+}
+.shuju_gongbao_list .gongbao_cont DT A {
+	COLOR: #333; _margin-top: 0px
+}
+.shuju_gongbao_list .gongbao_cont DL IMG {
+	MARGIN-RIGHT: 5px
+}
+.gongbao_cont_l LI IMG {
+	MARGIN-RIGHT: 5px
+}
+.shuju_gongbao_list {
+	WIDTH: 491px; FLOAT: left; PADDING-BOTTOM: 6px
+}
+.gongbao_cont_bg {
+	OVERFLOW: hidden; WIDTH: 320px; POSITION: absolute; FLOAT: left; MARGIN-LEFT: -2px; LEFT: 145px; Z-INDEX: 999; MARGIN-TOP: -13px; DISPLAY: none
+}
+.gongbao_cont_l {
+	BORDER-RIGHT: #b5cddd 1px solid; WIDTH: 286px; BACKGROUND: #fff; FLOAT: left; PADDING-BOTTOM: 11px; PADDING-TOP: 11px; PADDING-LEFT: 30px; MARGIN-LEFT: 1px; BORDER-LEFT: #b5cddd 1px solid
+}
+UL.gongbao_cont DL DD.gongbao_cont_bg UL.gongbao_cont_l LI A {
+	WIDTH: 286px; LINE-HEIGHT: 25px
+}
+.gb_l IMG {
+	WIDTH: 319px; FLOAT: left
+}
+.gb_r IMG {
+	WIDTH: 319px; FLOAT: left
+}
+.gongbao_cont_l LI A {
+	LINE-HEIGHT: 25px
+}
+.center_tongjichubanwu {
+	HEIGHT: 222px; WIDTH: 998px; BACKGROUND: url(tongjicbw_bg.gif) repeat-x left top; FLOAT: left; MARGIN-TOP: 10px
+}
+.tongjichubanwu_tit {
+	HEIGHT: 214px; WIDTH: 73px; FLOAT: left
+}
+.tongjichubanwu_tit IMG {
+	HEIGHT: 214px; WIDTH: 73px; FLOAT: left
+}
+.tongjichubanwu_cont {
+	HEIGHT: 201px; WIDTH: 917px; BACKGROUND: url(tongjicbw_contbg.gif) repeat-x left top; FLOAT: left; MARGIN: 7px 0px
+}
+.tongjichubanwu_cont01 {
+	HEIGHT: 190px; WIDTH: 240px; BACKGROUND: url(tongjicbw_cont.gif) no-repeat left top; FLOAT: left; PADDING-BOTTOM: 10px; PADDING-TOP: 15px; PADDING-LEFT: 60px; PADDING-RIGHT: 5px
+}
+.tongjichubanwu_cont01 LI {
+	WIDTH: 240px; BACKGROUND: url(line.gif) repeat-x left bottom; FLOAT: left; MARGIN-TOP: 2px; LINE-HEIGHT: 25px
+}
+.tongjichubanwu_cont02 {
+	HEIGHT: 166px; WIDTH: 180px; BACKGROUND: #c2e2ee; FLOAT: left; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 15px; MARGIN-TOP: 2px; PADDING-RIGHT: 15px
+}
+.tongjichubanwu_cont02_tit {
+	FONT-SIZE: 14px; WIDTH: 180px; FLOAT: left; COLOR: #bf521a
+}
+.tongjichubanwu_cont02_inp {
+	WIDTH: 180px; FLOAT: left; MARGIN: 5px 0px
+}
+.tongjichubanwu_cont02_inp .tjcb_value {
+	CURSOR: pointer; FONT-SIZE: 12px; WIDTH: 50px; BACKGROUND: url(dinggou.gif) no-repeat left top; FLOAT: left; COLOR: #08a0b8; PADDING-BOTTOM: 2px; TEXT-ALIGN: left; PADDING-LEFT: 8px; LINE-HEIGHT: 18px
+}
+.tongjichubanwu_cont02_a {
+	FLOAT: left; COLOR: #424b4f; LINE-HEIGHT: 25px
+}
+.tongjichubanwu_cont03 {
+	WIDTH: 380px; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-TOP: 20px
+}
+.tongjichubanwu_cont03 IMG {
+	HEIGHT: 125px; WIDTH: 88px; FLOAT: left
+}
+.tongjichubanwu_cont03_tit {
+	WIDTH: 275px; FLOAT: left; MARGIN-LEFT: 10px
+}
+.tongjichubanwu_cont03_cont {
+	WIDTH: 275px; FLOAT: left; MARGIN-LEFT: 10px
+}
+.tongjichubanwu_cont03_a {
+	WIDTH: 275px; FLOAT: left; MARGIN-LEFT: 10px
+}
+.tongjichubanwu_cont03_tit {
+	MARGIN-BOTTOM: 3px; TEXT-DECORATION: underline; MARGIN-TOP: 3px
+}
+.tongjichubanwu_cont03_cont {
+	LINE-HEIGHT: 22px
+}
+.tongjichubanwu_cont03_a {
+	WIDTH: 350px
+}
+.tongjichubanwu_cont03_a IMG {
+	HEIGHT: 17px; WIDTH: 15px
+}
+.tongjichubanwu_cont03_a A {
+	CURSOR: pointer; FLOAT: right; COLOR: blue; MARGIN: 5px
+}
+.tongjizhishi_01 {
+	WIDTH: 672px; FLOAT: left; MARGIN-TOP: 10px
+}
+.tongjizhishi_02 {
+	WIDTH: 672px; FLOAT: left; MARGIN-TOP: 10px
+}
+.tongjizhishi_01_a {
+	HEIGHT: 333px; WIDTH: 323px; BACKGROUND: url(rdwtjd_bg.gif) no-repeat left bottom; FLOAT: left
+}
+.tongjizhishi_01_a IMG {
+	FLOAT: left; MARGIN: 10px 0px
+}
+.tongjizhishi_01_a_list {
+	WIDTH: 300px; FLOAT: left; PADDING-BOTTOM: 10px; PADDING-TOP: 0px; PADDING-LEFT: 10px; MARGIN-TOP: 10px; PADDING-RIGHT: 10px
+}
+.tongjizhishi_01_a_list LI {
+	BACKGROUND: url(line.gif) repeat-x left bottom; FLOAT: left; MARGIN-TOP: 3px
+}
+.tongjizhishi_01_a_list LI A {
+	WIDTH: 295px; FLOAT: left; MARGIN-LEFT: 5px; LINE-HEIGHT: 26px
+}
+.tongjizhishi_01_a_list LI A:hover {
+	COLOR: #fb6602
+}
+.tjzs_on {
+	COLOR: #fb6602
+}
+.tongjizhishi_01_a_list LI A IMG {
+	MARGIN-RIGHT: 10px
+}
+.tongjizhishi_01_b {
+	BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; WIDTH: 323px; BORDER-BOTTOM: #ddd 1px solid; FLOAT: left; PADDING-BOTTOM: 1px; PADDING-TOP: 3px; PADDING-LEFT: 0px; MARGIN-LEFT: 10px; BORDER-LEFT: #ddd 1px solid; PADDING-RIGHT: 0px; _margin-left: 5px
+}
+.tongjizhishi_01_b_tit IMG {
+	FLOAT: left; MARGIN-LEFT: 3px
+}
+.tongjizhishi_01_b_list {
+	HEIGHT: 93px; WIDTH: 323px; BACKGROUND: url(24.gif) no-repeat left top; FLOAT: left; MARGIN-TOP: 2px
+}
+.tongjizhishi_01_b_list .tjzsb_list_02 {
+	FLOAT: left; MARGIN-TOP: 5px
+}
+.tongjizhishi_01_b_list .tjzsb_list_01 {
+	MARGIN-BOTTOM: 15px; FLOAT: left; MARGIN-LEFT: 13px; MARGIN-TOP: 22px
+}
+.tjzsb_list_01 IMG {
+	WIDTH: 100px
+}
+.tjzsb_list_02 IMG {
+	HEIGHT: 80px; WIDTH: 12px
+}
+.tongjizhishi_01_b_list .tjzsb_list_03 {
+	MARGIN-BOTTOM: 15px; WIDTH: 180px; FLOAT: left; MARGIN-LEFT: 8px; MARGIN-TOP: 10px; _margin-left: 0px
+}
+.tjzs_01_b_tit {
+	WIDTH: 180px; FLOAT: left; FONT-WEIGHT: bold; COLOR: #0d76b5
+}
+.tjzs_01_b_cont {
+	WIDTH: 180px; FLOAT: left; LINE-HEIGHT: 19px; TEXT-INDENT: 20px
+}
+.tongjizhishi_02_a {
+	BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; WIDTH: 323px; BORDER-BOTTOM: #ddd 1px solid; FLOAT: left; BORDER-LEFT: #ddd 1px solid
+}
+.tongjizhishi_02_b {
+	BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; WIDTH: 323px; BORDER-BOTTOM: #ddd 1px solid; FLOAT: left; BORDER-LEFT: #ddd 1px solid
+}
+.tongjizhishi_02_c {
+	BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; WIDTH: 323px; BORDER-BOTTOM: #ddd 1px solid; FLOAT: left; BORDER-LEFT: #ddd 1px solid
+}
+.tjzs_genduo {
+	WIDTH: 260px
+}
+.tongjizhishi_02_b {
+	MARGIN-LEFT: 10px; _margin-left: 5px
+}
+.tongjizhishi_02_c {
+	MARGIN-LEFT: 10px; _margin-left: 5px
+}
+.tongjizhishi_02_b {
+	MARGIN-TOP: 12px
+}
+.tongjizhishi_02_a {
+	PADDING-BOTTOM: 11px
+}
+.tjzs_02_b_ul {
+	WIDTH: 260px; FLOAT: left; PADDING-BOTTOM: 14px
+}
+.tjzs_02_b_ul LI {
+	WIDTH: 123px; FLOAT: left; MARGIN-LEFT: 6px; LINE-HEIGHT: 24px
+}
+.tjzs_02_b_ul LI IMG {
+	MARGIN-RIGHT: 5px
+}
+.tjzs_genduob {
+	HEIGHT: 54px; WIDTH: 323px; BACKGROUND: url(spdb.gif) no-repeat left top
+}
+.tjzs_genduob A {
+	MARGIN-TOP: 20px; MARGIN-RIGHT: 15px
+}
+.tongjizhishi_02_a_01 {
+	WIDTH: 130px; FLOAT: left; TEXT-ALIGN: center; MARGIN: 14px 0px 4px 20px; LINE-HEIGHT: 25px; _margin: 14px 0px 4px 10px
+}
+.tjzs_genduoa {
+	WIDTH: 323px
+}
+.tjzs_genduoa A {
+	MARGIN-TOP: 8px
+}
+.tjzs_02_c_titf {
+	HEIGHT: 29px; WIDTH: 323px; BACKGROUND: #f3f3f3; BORDER-BOTTOM: #ddd 1px solid; FLOAT: left
+}
+.tjzs_02_c_titf A {
+	HEIGHT: 28px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 1px; MARGIN-LEFT: 9px; LINE-HEIGHT: 30px; PADDING-RIGHT: 1px
+}
+.tjzs_02_c_titf A:hover {
+	BORDER-BOTTOM: #b21414 3px solid; COLOR: #0174ab
+}
+.tjzsf_on {
+	BORDER-BOTTOM: #b21414 3px solid; COLOR: #0174ab
+}
+.tjzs_02_c_ul {
+	WIDTH: 323px; FLOAT: left; PADDING-BOTTOM: 17px; PADDING-TOP: 13px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.tjzs_02_c_ul LI {
+	WIDTH: 280px; BACKGROUND: url(line.gif) repeat-x left bottom; FLOAT: left; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 10px; MARGIN: 0px 10px; PADDING-RIGHT: 10px; _padding: 7px 0px 3px 0px; _height: 20px
+}
+.tjzs_02_c_ul LI IMG {
+	MARGIN-RIGHT: 10px
+}
+.tjzs_02_c_ul LI A {
+	WIDTH: 280px; LINE-HEIGHT: 24px
+}
+.tongjizixun_search {
+	FONT-SIZE: 16px; HEIGHT: 45px; WIDTH: 235px; BACKGROUND: url(center-menu1.gif) no-repeat right top; FLOAT: left; FONT-WEIGHT: bold; COLOR: #fff; TEXT-ALIGN: center; LINE-HEIGHT: 40px; _padding-top: 5px
+}
+.tongjizixun_search IMG {
+	MARGIN-RIGHT: 3px
+}
+.tongjizixun_search_ti {
+	FONT-SIZE: 14px; HEIGHT: 25px; WIDTH: 235px; FLOAT: left; COLOR: #b32727; TEXT-ALIGN: center; LINE-HEIGHT: 25px
+}
+.tongjizixun_search_ul {
+	WIDTH: 235px; FLOAT: left
+}
+.tongjizixun_search_ul LI {
+	FONT-SIZE: 14px; FLOAT: left; COLOR: #747474; MARGIN: 5px 10px; LINE-HEIGHT: 25px; _margin: 5px 5px
+}
+.tjzx_input {
+	BORDER-TOP: #ddd 1px solid; HEIGHT: 22px; BORDER-RIGHT: #ddd 1px solid; BACKGROUND: #f4f4f4; BORDER-BOTTOM: #ddd 1px solid; TEXT-ALIGN: left; MARGIN-LEFT: 5px; BORDER-LEFT: #ddd 1px solid; LINE-HEIGHT: 22px
+}
+.tjzx_input {
+	WIDTH: 160px
+}
+.tongjizixun_search_ul .tjzx_button {
+	WIDTH: 230px; FONT-WEIGHT: bold; COLOR: #2c7fc1; TEXT-ALIGN: center
+}
+.tjzx_button A {
+	COLOR: #2c7fc1; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.tongjizixun_changjianwenti {
+	WIDTH: 235px; FLOAT: left; TEXT-ALIGN: center; MARGIN-TOP: 20px
+}
+.tjzx_yh_xinxi {
+	WIDTH: 650px; FLOAT: left
+}
+.tjzx_user {
+	WIDTH: 650px; FLOAT: left
+}
+.tjzx_yh_xinxi_tit {
+	WIDTH: 650px; FLOAT: left
+}
+.yh_xinxi_input {
+	WIDTH: 650px; FLOAT: left
+}
+.tjzx_user {
+	BACKGROUND: url(29.gif) no-repeat left bottom; PADDING-BOTTOM: 25px
+}
+.tjzx_user IMG {
+	HEIGHT: 115px; WIDTH: 114px; FLOAT: left; MARGIN-LEFT: 10px
+}
+.tjzx_user_x {
+	WIDTH: 500px; FLOAT: left; MARGIN-LEFT: 20px; MARGIN-TOP: 10px
+}
+.tjzx_user_x LI {
+	FONT-SIZE: 14px; WIDTH: 500px; FLOAT: left; FONT-WEIGHT: bold; COLOR: #277299; LINE-HEIGHT: 25px
+}
+.tjzx_user_x LI IMG {
+	HEIGHT: 12px; WIDTH: 14px; MARGIN-TOP: 8px; MARGIN-RIGHT: 5px
+}
+.tjzx_yh_xinxi_tit {
+	FONT-SIZE: 16px; HEIGHT: 30px; FONT-WEIGHT: bold; COLOR: #0963ab; TEXT-ALIGN: center; MARGIN-TOP: 30px
+}
+.yh_xinxi_input {
+	BORDER-TOP: #61a3e6 2px solid; BORDER-RIGHT: #e7e5e2 1px solid; BORDER-BOTTOM: #e7e5e2 1px solid; PADDING-BOTTOM: 20px; PADDING-TOP: 20px; PADDING-LEFT: 0px; BORDER-LEFT: #e7e5e2 1px solid; PADDING-RIGHT: 0px
+}
+.yh_xinxi_input LI {
+	FONT-SIZE: 14px; WIDTH: 566px; FLOAT: left; MARGIN-LEFT: 30px; MARGIN-TOP: 5px; LINE-HEIGHT: 25px
+}
+.yh_xinxi_tita {
+	FONT-SIZE: 14px; WIDTH: 550px; FLOAT: left
+}
+.yh_xinxi_tita_01 {
+	FLOAT: left; COLOR: red
+}
+.yh_xinxi_inp {
+	WIDTH: 250px; MARGIN-RIGHT: 5px
+}
+.yh_xinxi_inpa {
+	WIDTH: 550px; FLOAT: left; MARGIN-LEFT: 0px; MARGIN-RIGHT: 5px
+}
+.yh_xinxi_inpb {
+	WIDTH: 100px
+}
+.yh_xinxi_inpc {
+	WIDTH: 400px
+}
+.yh_xinxi_button {
+	BORDER-TOP: #ddd 1px solid; HEIGHT: 25px; BORDER-RIGHT: #ddd 1px solid; WIDTH: 50px; BACKGROUND: #b0b0b1; BORDER-BOTTOM: #ddd 1px solid; FONT-WEIGHT: bold; COLOR: #fff; TEXT-ALIGN: center; BORDER-LEFT: #ddd 1px solid; LINE-HEIGHT: 25px
+}
+.tjzx_yh_xinxi_submit {
+	WIDTH: 650px; FLOAT: left; PADDING-BOTTOM: 30px; TEXT-ALIGN: center; PADDING-TOP: 20px
+}
+.yh_xinxi_sub {
+	FONT-SIZE: 14px; HEIGHT: 29px; WIDTH: 73px; BACKGROUND: url(submit.gif) no-repeat left top; FONT-WEIGHT: bold; COLOR: #fff
+}
+.xiangguanwangzhan {
+	WIDTH: 240px; FLOAT: left; PADDING-BOTTOM: 20px; MARGIN-TOP: 20px
+}
+.xgwz_list {
+	WIDTH: 220px; FLOAT: left; TEXT-ALIGN: center; MARGIN-TOP: 10px
+}
+.xgwz_list IMG {
+	MARGIN-TOP: 5px
+}
+.ztzw_list {
+	WIDTH: 690px; FLOAT: left; _width: 670px
+}
+.ztzw_list IMG {
+	MARGIN-TOP: 5px; MARGIN-RIGHT: 50px
+}
+.ztzw_line {
+	HEIGHT: 50px; BORDER-RIGHT: #2e76bc 2px solid; WIDTH: 727px; BACKGROUND: url(list_bg.gif) repeat-x left bottom; FLOAT: left; PADDING-TOP: 30px
+}
+.ztzw_tab {
+	BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; WIDTH: 600px; BORDER-BOTTOM: #cccccc 1px solid; FLOAT: left; MARGIN-LEFT: 30px; BORDER-LEFT: #cccccc 1px solid
+}
+.ztzw_tab TD {
+	BORDER-TOP: #cccccc 1px solid; HEIGHT: 40px; BORDER-RIGHT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #cccccc 1px solid; LINE-HEIGHT: 40px
+}
+.jgzn_menu {
+	WIDTH: 230px; FLOAT: left; MARGIN-TOP: 10px
+}
+.jgzn_menu LI {
+	WIDTH: 230px; FLOAT: left; MARGIN-TOP: 10px
+}
+.jgzn_menu LI A {
+	HEIGHT: 43px; WIDTH: 150px; BACKGROUND: url(jgzn.gif) no-repeat left top; FLOAT: left; COLOR: #215082; TEXT-ALIGN: left; PADDING-LEFT: 30px; MARGIN-LEFT: 30px; LINE-HEIGHT: 43px
+}
+.jigouzhineng_01 {
+	WIDTH: 690px; BACKGROUND: #efefef; FLOAT: left
+}
+.jigouzhineng_02 {
+	WIDTH: 690px; BACKGROUND: #efefef; FLOAT: left
+}
+.jigouzhineng_02 {
+	HEIGHT: 43px; MARGIN-TOP: 10px; LINE-HEIGHT: 43px
+}
+.jigouzhineng_01_a {
+	HEIGHT: 325px; WIDTH: 260px; BACKGROUND: url(11.gif) no-repeat right top; FLOAT: left
+}
+.jgzn_a_01 {
+	WIDTH: 240px; FLOAT: left; MARGIN-TOP: 40px; _width: 190px
+}
+.jgzn_a_01 LI {
+	FONT-SIZE: 14px; HEIGHT: 15px; WIDTH: 240px; FLOAT: left; FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; TEXT-ALIGN: center; PADDING-TOP: 5px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; _width: 190px
+}
+.jgzn_a_01img {
+	BACKGROUND: #fff; FLOAT: left; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; MARGIN-LEFT: 50px; PADDING-RIGHT: 5px
+}
+.jgzn_a_01m {
+	FONT-SIZE: 12px; HEIGHT: 50px; WIDTH: 60px; FLOAT: left; FONT-WEIGHT: 400
+}
+.jgzn_a_01_line {
+	HEIGHT: 50px; WIDTH: 2px; BACKGROUND: url(line_a.gif) repeat-y center center; FLOAT: left
+}
+.jigouzhineng_01_b {
+	WIDTH: 400px; FLOAT: left; PADDING-BOTTOM: 30px; PADDING-TOP: 30px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.jgzn_b_01 {
+	MARGIN-BOTTOM: 15px; FONT-SIZE: 12px; FLOAT: left; LINE-HEIGHT: 22px; TEXT-INDENT: 20px
+}
+.jgzn_b_02 {
+	FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.jgzn_b_02 LI {
+	WIDTH: 400px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 26px; PADDING-RIGHT: 0px
+}
+.jgzn_02_a {
+	WIDTH: 690px; FLOAT: left
+}
+.jgzn_a01 {
+	FONT-SIZE: 14px; WIDTH: 190px; FLOAT: left; FONT-WEIGHT: bold; COLOR: #7a3400; TEXT-ALIGN: right; MARGIN-RIGHT: 25px
+}
+.jgzn_a02 {
+	FONT-SIZE: 14px; WIDTH: 450px; FLOAT: left; COLOR: #7a3400
+}
+.xxgkml_table {
+	BORDER-TOP: #d0d0d0 1px solid; BORDER-RIGHT: #d0d0d0 1px solid; BORDER-BOTTOM: #d0d0d0 1px solid; BORDER-LEFT: #d0d0d0 1px solid
+}
+.xxgkml_table TD {
+	BORDER-TOP: #d0d0d0 1px solid; HEIGHT: 25px; BORDER-RIGHT: #d0d0d0 1px solid; BORDER-BOTTOM: #d0d0d0 1px solid; PADDING-LEFT: 5px; BORDER-LEFT: #d0d0d0 1px solid
+}
+.xxgkml_fenye {
+	HEIGHT: 40px; WIDTH: 680px; FLOAT: left; MARGIN-TOP: 10px; LINE-HEIGHT: 40px
+}
+.xxgkml_fenye_left {
+	FONT-SIZE: 14px; FLOAT: left
+}
+.xxgkml_fenye_right {
+	FLOAT: right; MARGIN-TOP: 5px
+}
+.xxgkml_fenye_right A {
+	FONT-SIZE: 16px; BORDER-TOP: #999 1px solid; HEIGHT: 25px; BORDER-RIGHT: #999 1px solid; WIDTH: 25px; BORDER-BOTTOM: #999 1px solid; FLOAT: left; COLOR: blue; TEXT-ALIGN: center; BORDER-LEFT: #999 1px solid; LINE-HEIGHT: 25px; MARGIN-RIGHT: 5px
+}
+.fenye_hui {
+	COLOR: #999
+}
+.xxgkml_fenye_right A:hover {
+	BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid; BORDER-BOTTOM: #000 1px solid; COLOR: red; BORDER-LEFT: #000 1px solid
+}
+.xxgkml_fenye_right A.fenye_on {
+	BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid; BORDER-BOTTOM: #000 1px solid; COLOR: red; BORDER-LEFT: #000 1px solid
+}
+.zfxxgk_02_c_titf {
+	WIDTH: 491px
+}
+.zfxxgk_02_c_titf A {
+	MARGIN-LEFT: 22px
+}
+.zhengfugongkaixinxi_zn {
+	WIDTH: 491px; FLOAT: left
+}
+.zhengfugongkaixinxi_list {
+	WIDTH: 491px; FLOAT: left
+}
+.zfgkxx_input_a {
+	WIDTH: 491px; FLOAT: left
+}
+.zfgkxx_input_b {
+	WIDTH: 491px; FLOAT: left
+}
+.zfgkxx_input_c {
+	WIDTH: 491px; FLOAT: left
+}
+.zhengfugongkaixinxi_list {
+	MARGIN-BOTTOM: 0px
+}
+.zfgkxx_input_a {
+	MARGIN-BOTTOM: 8px
+}
+.zfgkxx_input_b {
+	MARGIN-BOTTOM: 8px
+}
+.zfgkxx_input01 {
+	CURSOR: pointer; HEIGHT: 50px; WIDTH: 182px; FLOAT: left; MARGIN: 0px 5px
+}
+.zfgkxx_input02 {
+	CURSOR: pointer; HEIGHT: 50px; WIDTH: 182px; FLOAT: left; MARGIN: 0px 5px
+}
+.zfgkxx_input04 {
+	CURSOR: pointer; HEIGHT: 50px; WIDTH: 182px; FLOAT: left; MARGIN: 0px 5px
+}
+.zfgkxx_input05 {
+	CURSOR: pointer; HEIGHT: 50px; WIDTH: 182px; FLOAT: left; MARGIN: 0px 5px
+}
+.zfgkxx_input07 {
+	CURSOR: pointer; HEIGHT: 50px; WIDTH: 182px; FLOAT: left; MARGIN: 0px 5px
+}
+.zfgkxx_input08 {
+	CURSOR: pointer; HEIGHT: 50px; WIDTH: 182px; FLOAT: left; MARGIN: 0px 5px
+}
+.zfgkxx_input01 {
+	BACKGROUND: url(03.png) no-repeat -2px -10px
+}
+.zfgkxx_input02 {
+	BACKGROUND: url(03.png) no-repeat -195px -10px
+}
+.zfgkxx_input04 {
+	BACKGROUND: url(03.png) no-repeat -2px -71px
+}
+.zfgkxx_input05 {
+	BACKGROUND: url(03.png) no-repeat -195px -71px
+}
+.zfgkxx_input07 {
+	BACKGROUND: url(03.png) no-repeat -2px -132px
+}
+.zfgkxx_input08 {
+	BACKGROUND: url(03.png) no-repeat -195px -132px
+}
+.zfgkxx_input03 {
+	CURSOR: pointer; HEIGHT: 50px; WIDTH: 96px; FLOAT: left; MARGIN-LEFT: 5px
+}
+.zfgkxx_input06 {
+	CURSOR: pointer; HEIGHT: 50px; WIDTH: 96px; FLOAT: left; MARGIN-LEFT: 5px
+}
+.zfgkxx_input09 {
+	CURSOR: pointer; HEIGHT: 50px; WIDTH: 96px; FLOAT: left; MARGIN-LEFT: 5px
+}
+.zfgkxx_input03 {
+	BACKGROUND: url(03.png) no-repeat -389px -10px
+}
+.zfgkxx_input06 {
+	BACKGROUND: url(03.png) no-repeat -389px -71px
+}
+.zfgkxx_input09 {
+	BACKGROUND: url(03.png) no-repeat -389px -130px
+}
+.zfgkxx_jgszyzn_bg {
+	HEIGHT: 180px; WIDTH: 491px; BACKGROUND: url(jgszyzn_bg.jpg) no-repeat left top; FLOAT: left
+}
+.jgszyzn_img {
+	FLOAT: left; MARGIN-TOP: 20px
+}
+.jgszyzn_line {
+	FLOAT: left; MARGIN-TOP: 20px
+}
+.jgszyzn_cont {
+	FLOAT: left; MARGIN-TOP: 20px
+}
+.jgszyzn_img {
+	WIDTH: 115px; MARGIN-TOP: 12px
+}
+.jgszyzn_img_01 {
+	BORDER-TOP: #d8d8d8 1px solid; BORDER-RIGHT: #d8d8d8 1px solid; BORDER-BOTTOM: #d8d8d8 1px solid; FLOAT: left; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 3px; MARGIN-LEFT: 15px; BORDER-LEFT: #d8d8d8 1px solid; PADDING-RIGHT: 3px
+}
+.jgszyzn_img_01 IMG {
+	HEIGHT: 105px; WIDTH: 80px
+}
+.jgszyzn_img_02 {
+	FONT-SIZE: 12px; FLOAT: left; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 12px; MARGIN-TOP: 5px; PADDING-RIGHT: 5px
+}
+.jgszyzn_line {
+	HEIGHT: 140px; WIDTH: 2px; BACKGROUND: url(line_a.gif) repeat-y left top; MARGIN-LEFT: 5px; MARGIN-RIGHT: 5px
+}
+.jgszyzn_cont UL {
+	WIDTH: 170px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN-TOP: 5px; PADDING-RIGHT: 0px
+}
+.jgszyzn_cont UL LI {
+	LINE-HEIGHT: 25px
+}
+.center_zhuantierji01 {
+	WIDTH: 998px; FLOAT: left
+}
+.zhuantierji01_a {
+	WIDTH: 324px; FLOAT: left
+}
+.ztej_top {
+	HEIGHT: 37px; WIDTH: 324px; BACKGROUND: url(ztej_tit.gif) no-repeat left top; FLOAT: left
+}
+.ztej_top A {
+	LINE-HEIGHT: 37px; MARGIN-RIGHT: 15px
+}
+.ztej_top IMG {
+	FLOAT: left; MARGIN-LEFT: 10px
+}
+.ztej_middle {
+	BORDER-RIGHT: #d9d9d9 3px solid; WIDTH: 318px; FLOAT: left; BORDER-LEFT: #d9d9d9 3px solid
+}
+.ztej_middle_ul {
+	HEIGHT: 150px; WIDTH: 286px; FLOAT: left; PADDING-BOTTOM: 5px; PADDING-TOP: 10px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px
+}
+.ztej_middle_ul LI {
+	WIDTH: 280px; BACKGROUND: url(line.gif) repeat-x left bottom; FLOAT: left
+}
+.ztej_middle_ul LI IMG {
+	MARGIN-RIGHT: 8px
+}
+.ztej_middle_ul LI A {
+	WIDTH: 280px; FLOAT: left; LINE-HEIGHT: 25px; _padding: 5px 0
+}
+.ztej_bottom {
+	HEIGHT: 22px; WIDTH: 324px; BACKGROUND: url(ztej_titb.gif) no-repeat left top; FLOAT: left
+}
+.ztej_margin {
+	MARGIN: 0px 13px
+}
+.zjtj_01 {
+	WIDTH: 998px; FLOAT: left
+}
+.zjtj_02 {
+	WIDTH: 998px; FLOAT: left
+}
+.zjtj_01_a {
+	WIDTH: 734px; FLOAT: left
+}
+.zjtj_01_a_top {
+	HEIGHT: 12px; WIDTH: 734px; FLOAT: left
+}
+.zjtj_01_a_bottom {
+	HEIGHT: 12px; WIDTH: 734px; FLOAT: left
+}
+.zjtj_01_a_middle {
+	BORDER-RIGHT: #0083aa 3px solid; WIDTH: 728px; FLOAT: left; BORDER-LEFT: #0083aa 3px solid
+}
+.zjtj_gjtjj_tit {
+	POSITION: relative
+}
+.zjtj_01_aa {
+	WIDTH: 230px; MARGIN-TOP: -30px
+}
+.zjtj_01_a_line {
+	BORDER-TOP: #d8d8d8 1px solid; BORDER-RIGHT: #d8d8d8 1px solid; BORDER-BOTTOM: #d8d8d8 1px solid; BORDER-LEFT: #d8d8d8 1px solid
+}
+.zjtj_01_a_left {
+	WIDTH: 26px; FLOAT: left; MARGIN-TOP: -55px
+}
+.zjtj_01_a_left IMG {
+	HEIGHT: 325px; WIDTH: 26px; FLOAT: left
+}
+.zjtj_01_bb {
+	WIDTH: 420px; PADDING-BOTTOM: 20px; PADDING-TOP: 10px; PADDING-LEFT: 10px; MARGIN-LEFT: 10px; MARGIN-TOP: -55px; PADDING-RIGHT: 10px; _margin-left: 0px
+}
+.zjtj_01_b_right {
+	MARGIN-BOTTOM: 10px; WIDTH: 420px; BACKGROUND: url(line.gif) repeat-x left bottom; FLOAT: left
+}
+.zjtj_01_b_right .zjtj_01_b_ul {
+	BACKGROUND: url(30.gif) no-repeat left center; FLOAT: right; PADDING-LEFT: 20px
+}
+.zjtj_01_b_right .zjtj_01_b_ul LI {
+	FLOAT: left; LINE-HEIGHT: 25px
+}
+.zjtj_01_b_right .zjtj_01_b_ul LI A {
+	COLOR: #014c80; MARGIN: 0px 5px
+}
+.zjtj_01_b {
+	WIDTH: 250px; FLOAT: left; MARGIN-LEFT: 12px
+}
+.zjtj_01_b_tit {
+	HEIGHT: 40px; WIDTH: 250px; BACKGROUND: url(bt01.gif) repeat-x left top; FLOAT: left
+}
+.zjtj_01_b_tit IMG {
+	MARGIN-TOP: 10px
+}
+.zjtj_01_b_tit IMG {
+	MARGIN-LEFT: 10px
+}
+.zjtj_02_a IMG {
+	MARGIN-LEFT: 10px
+}
+.zjtj_02_b IMG {
+	MARGIN-LEFT: 10px
+}
+.zjtj_01_box {
+	WIDTH: 250px; FLOAT: left
+}
+.zjtj_01_box DL {
+	WIDTH: 250px; FLOAT: left; MARGIN-TOP: 5px
+}
+#si_nav DL DD {
+	LIST-STYLE-TYPE: none; FLOAT: left; TEXT-ALIGN: left; DISPLAY: none
+}
+.zjtj_01_box DT SPAN A {
+	CURSOR: pointer; FONT-SIZE: 14px; HEIGHT: 32px; WIDTH: 220px; BACKGROUND: url(tjfg_menu.png) no-repeat left top; FLOAT: left; FONT-WEIGHT: bold; COLOR: #fff; PADDING-LEFT: 30px; LINE-HEIGHT: 32px
+}
+.zjtj_01_box UL {
+	WIDTH: 248px; FLOAT: left; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.zjtj_01_box UL LI {
+	WIDTH: 237px; BORDER-BOTTOM: #dddddd 1px solid; FLOAT: left; PADDING-TOP: 4px; PADDING-LEFT: 11px; _padding-left: 0px
+}
+.zjtj_01_box UL LI A {
+	WIDTH: 228px; BACKGROUND: url(jt_t.gif) no-repeat left center; FLOAT: left; PADDING-LEFT: 20px; LINE-HEIGHT: 25px
+}
+.zjtj_02 {
+	MARGIN-TOP: 10px
+}
+.zjtj_02_a {
+	WIDTH: 290px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN: 0px
+}
+.zjtj_02_gd {
+	WIDTH: 290px
+}
+.zjtj_02_gd A {
+	MARGIN-RIGHT: 8px
+}
+.zjtj_02_30 {
+	WIDTH: 290px; BACKGROUND: #f3f3f3; BORDER-BOTTOM: #c2c2c2 1px solid; FLOAT: left; TEXT-ALIGN: center; PADDING-TOP: 10px
+}
+.zjtj_02_30 A {
+	COLOR: #356798; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px
+}
+.zjtj_02_30 A.zjtj_on {
+	BACKGROUND: url(zjtj_30.gif) no-repeat left top; FONT-WEIGHT: bold; COLOR: #fff; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px
+}
+.zjtj_02_ul {
+	OVERFLOW: hidden; HEIGHT: 250px; WIDTH: 270px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 10px; PADDING-LEFT: 10px; MARGIN: 0px; PADDING-RIGHT: 10px; _height: 253px
+}
+.zjtj_02_ul LI {
+	WIDTH: 270px; FLOAT: left; _padding: 3px 0px 2px 0px; _height: 27px
+}
+.zjtj_02_ul LI IMG {
+	MARGIN-RIGHT: 10px
+}
+.zjtj_02_ul LI A {
+	LINE-HEIGHT: 25px
+}
+.zjtj_02_b {
+	WIDTH: 693px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN-LEFT: 10px; PADDING-RIGHT: 0px
+}
+.zjtj_02_gda {
+	WIDTH: 693px
+}
+.zjtj_b_30 {
+	WIDTH: 683px; BACKGROUND: #f3f3f3; BORDER-BOTTOM: #c2c2c2 1px solid; FLOAT: left; PADDING-BOTTOM: 3px; PADDING-TOP: 7px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.zjtj_b_30 LI {
+	FONT-SIZE: 12px; WIDTH: 325px; FLOAT: left; FONT-WEIGHT: bold; COLOR: #356798; MARGIN-LEFT: 15px; _margin-left: 5px
+}
+.zjtj_02_b_cont {
+	HEIGHT: 270px; WIDTH: 690px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.zjtj_b_cont_left {
+	FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.zjtj_b_cont_right {
+	FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.zjtj_b_cont_left {
+	WIDTH: 330px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px
+}
+.zjtj_b_cont_left A {
+	LINE-HEIGHT: 25px; MARGIN-RIGHT: 10px
+}
+.zjtj_b_cont_right {
+	HEIGHT: 270px; WIDTH: 330px; MARGIN-LEFT: 10px; BORDER-LEFT: #c2c2c2 1px solid; _margin-left: 0px
+}
+.zjtj_02_ula {
+	OVERFLOW: hidden; HEIGHT: 193px; WIDTH: 330px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 9px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 5px
+}
+.zjtj_02_ula LI A {
+	WIDTH: 330px; FLOAT: left; LINE-HEIGHT: 24px; _height: 24px
+}
+.zjtj_b_cont_right_dm {
+	BORDER-TOP: #1c7abf 3px solid; HEIGHT: 30px; WIDTH: 322px; BACKGROUND: #f3f3f3; BORDER-BOTTOM: #c2c2c2 1px solid; FLOAT: left; FONT-WEIGHT: bold; COLOR: #0879dc; PADDING-LEFT: 15px; LINE-HEIGHT: 30px
+}
+.zjtj_b_cont_right_ye {
+	HEIGHT: 38px; WIDTH: 322px; FLOAT: left; TEXT-ALIGN: center
+}
+.zjtj_b_cont_right_ye A {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold; COLOR: #04618a; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 3px; LINE-HEIGHT: 36px; PADDING-RIGHT: 3px
+}
+.center_hot_tit IMG {
+	FLOAT: left
+}
+.img_new_left {
+	FLOAT: left; MARGIN-LEFT: 20px; _margin-left: 10px
+}
+.img_new_right {
+	FLOAT: right; MARGIN-RIGHT: 20px; _margin-right: 10px
+}
+.img_midd {
+	WIDTH: 910px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN-LEFT: 8px
+}
+.img_midd_ul {
+	WIDTH: 140px; FLOAT: left; MARGIN: 15px 5px 0px; _width: 134px
+}
+.img_midd_ul LI IMG {
+	HEIGHT: 89px; WIDTH: 134px
+}
+.img_midd_ul LI {
+	FONT-SIZE: 12px; WIDTH: 140px; FLOAT: left; COLOR: #333; TEXT-ALIGN: center; LINE-HEIGHT: 22px; _width: 134px
+}
+.img_line {
+	HEIGHT: 95px; WIDTH: 1px; FLOAT: left; BORDER-LEFT: #dddddd 1px solid; MARGIN-TOP: 15px
+}
+.center_hot {
+	BORDER-TOP: #c6ced1 1px solid; BORDER-RIGHT: #c6ced1 1px solid; WIDTH: 998px; BORDER-BOTTOM: #c6ced1 1px solid; FLOAT: left; BORDER-LEFT: #c6ced1 1px solid; MARGIN-TOP: 10px
+}
+.center_href {
+	BORDER-TOP: #c6ced1 1px solid; BORDER-RIGHT: #c6ced1 1px solid; WIDTH: 998px; BORDER-BOTTOM: #c6ced1 1px solid; FLOAT: left; BORDER-LEFT: #c6ced1 1px solid; MARGIN-TOP: 10px
+}
+.center_hot_center {
+	FLOAT: left
+}
+.center_hot_ztej {
+	BORDER-TOP: #4bb7d8 2px solid; BORDER-RIGHT: #4bb7d8 2px solid; WIDTH: 996px; BORDER-BOTTOM: #4bb7d8 2px solid; FLOAT: left; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 0px; BORDER-LEFT: #4bb7d8 2px solid; MARGIN-TOP: -20px; PADDING-RIGHT: 0px
+}
+.center_hot_ztej_tit1 {
+	WIDTH: 730px; POSITION: relative; FLOAT: left; MARGIN-LEFT: 0px; MARGIN-TOP: -48px
+}
+.ztej_tit {
+	FLOAT: left
+}
+.ztej_titimg {
+	POSITION: relative; FLOAT: right; MARGIN-TOP: 25px
+}
+.center_hot_tit {
+	WIDTH: 958px; BACKGROUND: url(bt01.gif) repeat-x left top; BORDER-BOTTOM: #656766 2px solid; FLOAT: left; PADDING-TOP: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px
+}
+.center_href_tit {
+	WIDTH: 958px; BACKGROUND: url(bt01.gif) repeat-x left top; BORDER-BOTTOM: #656766 2px solid; FLOAT: left; PADDING-TOP: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px
+}
+.hot_left {
+	HEIGHT: 20px; WIDTH: 20px; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-TOP: 50px; _margin-left: 5px
+}
+.hot_right {
+	HEIGHT: 20px; WIDTH: 20px; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-TOP: 50px; _margin-left: 5px
+}
+.hot_midd {
+	WIDTH: 930px; FLOAT: left
+}
+.hot_midd_ul {
+	HEIGHT: 129px; WIDTH: 297px; FLOAT: left; MARGIN-LEFT: 5px; _width: 295px
+}
+.hot_midd_ul LI IMG {
+	HEIGHT: 90px; WIDTH: 145px; FLOAT: left
+}
+.hot_midd_ul LI {
+	OVERFLOW: hidden; FONT-SIZE: 12px; HEIGHT: 90px; WIDTH: 145px; FLOAT: left; COLOR: #333; PADDING-TOP: 20px
+}
+.hot_midd_ul_li {
+	WIDTH: 143px; FLOAT: left; COLOR: #666; MARGIN-LEFT: 6px
+}
+.hot_midd_ul_font {
+	WIDTH: 140px; FLOAT: left; MARGIN-LEFT: 6px
+}
+.hot_line {
+	HEIGHT: 120px; WIDTH: 1px; BACKGROUND: url(line_a.gif) repeat-y left top; FLOAT: left; MARGIN: 12px 5px 0px; _margin: 0px 0px
+}
+.center_href_tit {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none
+}
+.center_href_tita{
+	float:left;
+	width:958px;
+	height:28px;
+	color:#fff;
+	padding-left:40px;
+	font-weight:bold;
+	line-height:28px;
+	background:url(02.gif) top left repeat-x;
+}
+.center_href_tita a{
+	color:#fff;
+	padding:10px 20px;
+	font-weight:bold;
+}
+.center_href_tita A:hover {
+	BACKGROUND: #fff; COLOR: #12537e
+}
+.center_href_tita A.hrefon {
+	BACKGROUND: #fff; COLOR: #12537e
+}
+.href_a {
+	FLOAT: left; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px
+}
+.href_a A {
+	PADDING-BOTTOM: 8px; PADDING-TOP: 8px; PADDING-LEFT: 8px; LINE-HEIGHT: 22px; PADDING-RIGHT: 8px
+}
+.bottom {
+	HEIGHT: 170px; WIDTH: 1000px; MARGIN: 0px auto
+}
+.bottom01 {
+	WIDTH: 1000px; FLOAT: left
+}
+.bottom02 {
+	WIDTH: 1000px; FLOAT: left
+}
+.bottom01 {
+	HEIGHT: 95px; BACKGROUND: #ececec
+}
+.bottom01_a {
+	FLOAT: left
+}
+.bottom01_a {
+	COLOR: #6c6c6c; TEXT-ALIGN: center; MARGIN-LEFT: 20px; MARGIN-TOP: 30px; LINE-HEIGHT: 25px
+}
+.bottom01_b {
+	COLOR: #6c6c6c; TEXT-ALIGN: center; MARGIN-LEFT: 20px; MARGIN-TOP: 30px; LINE-HEIGHT: 25px
+}
+.bottom01_b {
+	FLOAT: right; MARGIN-TOP: 50px; MARGIN-RIGHT: 20px
+}
+.bottom_input {
+	WIDTH: 180px; FLOAT: left
+}
+.bottom_search {
+	BORDER-TOP: #cccccc 1px solid; HEIGHT: 25px; BORDER-RIGHT: #cccccc 1px solid; WIDTH: 80px; BACKGROUND: #fff; BORDER-BOTTOM: #cccccc 1px solid; FLOAT: left; FONT-WEIGHT: bold; BORDER-LEFT: #cccccc 1px solid; LINE-HEIGHT: 27px
+}
+.bottom_search A {
+	COLOR: #6c6c6c; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px
+}
+.bottom01_search {
+	BORDER-TOP: #cccccc 1px solid; HEIGHT: 25px; BORDER-RIGHT: #cccccc 1px solid; WIDTH: 180px; BORDER-BOTTOM: #cccccc 1px solid; FLOAT: left; BORDER-LEFT: #cccccc 1px solid; LINE-HEIGHT: 25px
+}
+.bottom02 {
+	HEIGHT: 75px; BACKGROUND: #1e67a7
+}
+.bottom02_font {
+	WIDTH: 1000px; FLOAT: left; COLOR: #fff; TEXT-ALIGN: center; MARGIN-TOP: 15px; LINE-HEIGHT: 22px
+}
+.center_home {
+	WIDTH: 990px; BACKGROUND: url(01.gif) repeat-x left bottom; FLOAT: left; PADDING-BOTTOM: 15px; PADDING-LEFT: 10px
+}
+.home_tit01 {
+	FONT-SIZE: 12px; WIDTH: 970px; FLOAT: left; MARGIN-LEFT: 8px; MARGIN-TOP: 1px
+}
+.home_margin10 {
+	WIDTH: 980px; BACKGROUND: #f2f2f2; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; MARGIN-TOP: -5px; PADDING-RIGHT: 10px
+}
+.home_a {
+	WIDTH: 980px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.home_b {
+	WIDTH: 980px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.home_c {
+	WIDTH: 980px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.home_d {
+	WIDTH: 980px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.home_a {
+	HEIGHT: 169px; MARGIN-TOP: 20px
+}
+.home_b {
+	HEIGHT: 167px; MARGIN-TOP: 10px
+}
+.home_d {
+	HEIGHT: 150px; MARGIN-TOP: 10px
+}
+.home_c {
+	BORDER-TOP: #c7ced1 1px solid; BORDER-RIGHT: #c7ced1 1px solid; WIDTH: 975px; BACKGROUND: #fff; BORDER-BOTTOM: #c7ced1 1px solid; BORDER-LEFT: #c7ced1 1px solid; MARGIN-TOP: 10px
+}
+.home_c01 {
+	WIDTH: 980px; FLOAT: left
+}
+.home_c01_tit {
+	HEIGHT: 80px; WIDTH: 83px; FLOAT: left
+}
+.home_c01_cont {
+	HEIGHT: 60px; WIDTH: 830px; BORDER-BOTTOM: #656766 2px solid; FLOAT: left; PADDING-BOTTOM: 7px; PADDING-TOP: 8px; PADDING-LEFT: 0px; MARGIN-LEFT: 25px; PADDING-RIGHT: 10px
+}
+.home_c01_cont H6 {
+	FONT-SIZE: 26px; FONT-FAMILY: 微软雅黑; WIDTH: 840px; FLOAT: left; FONT-WEIGHT: 400; TEXT-ALIGN: center
+}
+.home_c01_cont H6 IMG {
+	HEIGHT: 60px; WIDTH: 840px; FLOAT: left
+}
+.home_c02 {
+	WIDTH: 445px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN-LEFT: 25px; MARGIN-TOP: 0px
+}
+.home_c03 {
+	WIDTH: 445px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN-LEFT: 25px; MARGIN-TOP: 0px
+}
+.home_c03 {
+	MARGIN-LEFT: 30px
+}
+.home_c02_img {
+	OVERFLOW: hidden; MARGIN-BOTTOM: 10px; HEIGHT: 286px; WIDTH: 443px; POSITION: relative; MARGIN-LEFT: 0px; MARGIN-TOP: 10px
+}
+#banner_list IMG {
+	BORDER-LEFT-WIDTH: 0px; HEIGHT: 286px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 443px; BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP-WIDTH: 0px
+}
+#banner_bg {
+	CURSOR: pointer; HEIGHT: 25px; WIDTH: 443px; POSITION: absolute; FILTER: Alpha(Opacity=50); Z-INDEX: 1000; BOTTOM: 0px; BACKGROUND-COLOR: #000; opacity: 0.5
+}
+#banner_info {
+	CURSOR: pointer; HEIGHT: 20px; POSITION: absolute; COLOR: #fff; LEFT: 12px; Z-INDEX: 1001; BOTTOM: 0px
+}
+#banner UL {
+	LIST-STYLE-TYPE: none; HEIGHT: 16px; RIGHT: 5px; POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; FILTER: Alpha(Opacity=80); MARGIN: 0px; Z-INDEX: 1002; PADDING-RIGHT: 0px; BOTTOM: 4px; opacity: 0.8
+}
+#banner UL LI {
+	BORDER-LEFT-WIDTH: 0px; CURSOR: pointer; HEIGHT: 16px; BORDER-RIGHT-WIDTH: 0px; BACKGROUND: #000; BORDER-BOTTOM-WIDTH: 0px; FLOAT: left; COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 8px; DISPLAY: block; LINE-HEIGHT: 16px; PADDING-RIGHT: 8px; BORDER-TOP-WIDTH: 0px; MARGIN-RIGHT: 2px
+}
+#banner UL LI.on {
+	BACKGROUND: #900
+}
+#banner_list A {
+	POSITION: absolute
+}
+.home_c02_123 {
+	WIDTH: 390px; FLOAT: left; TEXT-ALIGN: right; MARGIN-RIGHT: 5px
+}
+.home_c02_123 A {
+	FONT-SIZE: 11px; BACKGROUND: url(home_123.gif) no-repeat -15px 0px; COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px
+}
+.home_c02_123 A:hover {
+	BACKGROUND: url(home_123.gif) no-repeat 0px 0px
+}
+A.home_hover {
+	BACKGROUND: url(home_123.gif) no-repeat 0px 0px
+}
+.home_c03_tit {
+	HEIGHT: 38px; WIDTH: 445px; BACKGROUND: url(line.gif) repeat-x left bottom; FLOAT: left; MARGIN-TOP: 5px; LINE-HEIGHT: 38px
+}
+.home_zxfb {
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 10px
+}
+.home_zxfb LI {
+	WIDTH: 445px; BORDER-BOTTOM: #d8d8d8 1px solid
+}
+.home_zxfb LI IMG {
+	WIDTH: 5px; FLOAT: left; MARGIN-TOP: 15px
+}
+.home_zxfb LI A {
+	FONT-SIZE: 14px; FLOAT: left; FONT-WEIGHT: bold; COLOR: #2b587b; PADDING-BOTTOM: 4px; PADDING-TOP: 4px; PADDING-LEFT: 5px; PADDING-RIGHT: 0px
+}
+.fabu_yg_tit A {
+	FONT-SIZE: 12px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #636262; MARGIN-RIGHT: 15px
+}
+.home_c03_tit A {
+	FONT-SIZE: 12px; FLOAT: right; FONT-WEIGHT: bold; COLOR: #636262; MARGIN-RIGHT: 15px
+}
+.home_b_tit {
+	WIDTH: 475px; FLOAT: left
+}
+.home_b_tita {
+	BORDER-BOTTOM: #a3b6ca 2px solid
+}
+.home_b_tit IMG {
+	FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 12px 0px 0px 15px; PADDING-RIGHT: 0px
+}
+.home_a_01 {
+	BORDER-TOP: #c2c2c2 1px solid; BORDER-RIGHT: #c2c2c2 1px solid; WIDTH: 475px; BACKGROUND: #fff; BORDER-BOTTOM: #c2c2c2 1px solid; FLOAT: left; BORDER-LEFT: #c2c2c2 1px solid; MARGIN-RIGHT: 10px
+}
+.home_a_01_tit {
+	OVERFLOW: hidden; HEIGHT: 120px; WIDTH: 43px; FLOAT: left; MARGIN-LEFT: 0px; MARGIN-TOP: -13px
+}
+.home_b_zfxx {
+	BORDER-TOP: #c7ced1 1px solid; BORDER-RIGHT: #c7ced1 1px solid; WIDTH: 475px; BORDER-BOTTOM: #c7ced1 1px solid; FLOAT: left; BORDER-LEFT: #c7ced1 1px solid; MARGIN-RIGHT: 10px
+}
+.home_d_wsbs {
+	BORDER-TOP: #c7ced1 1px solid; BORDER-RIGHT: #c7ced1 1px solid; WIDTH: 475px; BORDER-BOTTOM: #c7ced1 1px solid; FLOAT: left; BORDER-LEFT: #c7ced1 1px solid; MARGIN-RIGHT: 10px
+}
+.home_b_zfxx {
+	BACKGROUND: #e4e7e9
+}
+.home_zfxx_tit {
+	WIDTH: 146px; FLOAT: left; PADDING-BOTTOM: 20px; PADDING-TOP: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.home_zfxx_cont {
+	WIDTH: 320px; FLOAT: left; MARGIN-TOP: 15px
+}
+.sub01 {
+	CURSOR: pointer; HEIGHT: 25px; WIDTH: 146px; FLOAT: left; TEXT-ALIGN: center; MARGIN-LEFT: 10px; MARGIN-TOP: 5px; LINE-HEIGHT: 24px
+}
+.sub02 {
+	CURSOR: pointer; HEIGHT: 25px; WIDTH: 146px; FLOAT: left; TEXT-ALIGN: center; MARGIN-LEFT: 10px; MARGIN-TOP: 5px; LINE-HEIGHT: 24px
+}
+.sub03 {
+	CURSOR: pointer; HEIGHT: 25px; WIDTH: 146px; FLOAT: left; TEXT-ALIGN: center; MARGIN-LEFT: 10px; MARGIN-TOP: 5px; LINE-HEIGHT: 24px
+}
+.sub01 {
+	BACKGROUND: url(04.png) no-repeat left top
+}
+.sub02 {
+	BACKGROUND: url(04.png) no-repeat left center
+}
+.sub03 {
+	BACKGROUND: url(04.png) no-repeat left bottom
+}
+.home_zfxx_a {
+	HEIGHT: 45px; WIDTH: 475px; BACKGROUND: #fff; FLOAT: left; FONT-WEIGHT: bold; COLOR: #357cb8; TEXT-ALIGN: center; MARGIN-TOP: 12px; LINE-HEIGHT: 45px
+}
+.home_zfxx_a A {
+	COLOR: #357cb8
+}
+.home_b_01 {
+	OVERFLOW: hidden; BACKGROUND: #fff
+}
+.home_b_02 {
+	OVERFLOW: hidden; BACKGROUND: #fff
+}
+.home_b_01 A {
+	WHITE-SPACE: nowrap; FLOAT: left; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; MARGIN-LEFT: 5px; MARGIN-TOP: 8px; PADDING-RIGHT: 0px
+}
+.home_b_zt {
+	FLOAT: left; FONT-WEIGHT: bold; COLOR: #4d7ba7; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.home_b_01 IMG {
+	FLOAT: left; MARGIN-RIGHT: 3px
+}
+.home_b_02 IMG {
+	MARGIN-RIGHT: 3px
+}
+.sub04 {
+	CURSOR: pointer; FONT-SIZE: 14px; HEIGHT: 40px; FLOAT: left; COLOR: #333; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 15px 0px 0px; LINE-HEIGHT: 40px; PADDING-RIGHT: 0px
+}
+.sub06 {
+	CURSOR: pointer; FONT-SIZE: 14px; HEIGHT: 40px; FLOAT: left; COLOR: #333; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 15px 0px 0px; LINE-HEIGHT: 40px; PADDING-RIGHT: 0px
+}
+.sub05 {
+	CURSOR: pointer; FONT-SIZE: 14px; HEIGHT: 40px; FLOAT: left; COLOR: #333; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 15px 0px 0px; LINE-HEIGHT: 40px; PADDING-RIGHT: 0px
+}
+.sub07 {
+	CURSOR: pointer; FONT-SIZE: 14px; HEIGHT: 40px; FLOAT: left; COLOR: #333; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 15px 0px 0px; LINE-HEIGHT: 40px; PADDING-RIGHT: 0px
+}
+.sub04 {
+	WIDTH: 72px; PADDING-LEFT: 43px
+}
+.sub06 {
+	WIDTH: 72px; PADDING-LEFT: 43px
+}
+.sub05 {
+	WIDTH: 70px; PADDING-LEFT: 40px; MARGIN-LEFT: 6px
+}
+.sub07 {
+	WIDTH: 70px; PADDING-LEFT: 40px; MARGIN-LEFT: 6px
+}
+.sub04 {
+	BACKGROUND: url(13.png) no-repeat 0px 0px
+}
+.sub05 {
+	BACKGROUND: url(13.png) no-repeat -123px 0px
+}
+.sub06 {
+	BACKGROUND: url(13.png) no-repeat 0px -43px
+}
+.sub07 {
+	BACKGROUND: url(13.png) no-repeat -123px -43px
+}
+.home_d_wsbs {
+	BACKGROUND: #fff
+}
+.home_d_wsbs_cont {
+	FLOAT: left; PADDING-BOTTOM: 10px; MARGIN-LEFT: 5px
+}
+.wsbs_01 {
+	FONT-SIZE: 14px; HEIGHT: 40px; FLOAT: left; PADDING-LEFT: 28px; MARGIN-LEFT: 5px; MARGIN-TOP: 8px; LINE-HEIGHT: 45px
+}
+.wsbs_02 {
+	FONT-SIZE: 14px; HEIGHT: 40px; FLOAT: left; PADDING-LEFT: 28px; MARGIN-LEFT: 5px; MARGIN-TOP: 8px; LINE-HEIGHT: 45px
+}
+.wsbs_03 {
+	FONT-SIZE: 14px; HEIGHT: 40px; FLOAT: left; PADDING-LEFT: 28px; MARGIN-LEFT: 5px; MARGIN-TOP: 8px; LINE-HEIGHT: 45px
+}
+.wsbs_04 {
+	FONT-SIZE: 14px; HEIGHT: 40px; FLOAT: left; PADDING-LEFT: 28px; MARGIN-LEFT: 5px; MARGIN-TOP: 8px; LINE-HEIGHT: 45px
+}
+.wsbs_05 {
+	FONT-SIZE: 14px; HEIGHT: 40px; FLOAT: left; PADDING-LEFT: 28px; MARGIN-LEFT: 5px; MARGIN-TOP: 8px; LINE-HEIGHT: 45px
+}
+.wsbs_01 {
+	WIDTH: 129px; BACKGROUND: url(14.png) no-repeat left top
+}
+.wsbs_02 {
+	WIDTH: 126px; BACKGROUND: url(14.png) no-repeat -165px 0px
+}
+.wsbs_03 {
+	WIDTH: 100px; BACKGROUND: url(14.png) no-repeat -325px 0px
+}
+.wsbs_04 {
+	WIDTH: 129px; BACKGROUND: url(14.png) no-repeat 0px -43px
+}
+.wsbs_05 {
+	WIDTH: 159px; BACKGROUND: url(14.png) no-repeat -165px -43px
+}
+.home_d_cyhd {
+	BORDER-TOP: #c7ced1 1px solid; BORDER-RIGHT: #c7ced1 1px solid; WIDTH: 491px; BORDER-BOTTOM: #c7ced1 1px solid; FLOAT: left; BORDER-LEFT: #c7ced1 1px solid
+}
+.home_d_cyhd_cont {
+	WIDTH: 490px; BACKGROUND: #fff; FLOAT: left
+}
+.cyhd_01 {
+	WIDTH: 235px; BACKGROUND: #e0e0e0; FLOAT: left; MARGIN-RIGHT: 10px
+}
+.cyhd_01a {
+	WIDTH: 78px; FLOAT: left; PADDING-BOTTOM: 5px; MARGIN-LEFT: 8px; MARGIN-TOP: 5px; _margin-left: 5px
+}
+.cyhd_01a IMG {
+	BORDER-TOP: #fff 2px solid; HEIGHT: 70px; BORDER-RIGHT: #fff 2px solid; WIDTH: 70px; BORDER-BOTTOM: #fff 2px solid; BORDER-LEFT: #fff 2px solid
+}
+.cyhd_01a A {
+	FONT-SIZE: 12px; FONT-WEIGHT: bold; COLOR: #064174; LINE-HEIGHT: 22px
+}
+.cyhd_01b {
+	WIDTH: 144px; FLOAT: left; MARGIN-TOP: 5px
+}
+.cyhd_01b A.cyhd_01aa {
+	HEIGHT: 31px; WIDTH: 115px; BACKGROUND: url(15.png) no-repeat left top; FLOAT: left; COLOR: #2868a3; PADDING-LEFT: 27px; LINE-HEIGHT: 40px
+}
+.cyhd_01ba {
+	WIDTH: 130px; FLOAT: left; MARGIN-LEFT: 10px; _margin-left: 5px
+}
+.cyhd_01ba LI {
+	WIDTH: 65px; FLOAT: left
+}
+.cyhd_01ba LI A.cyhd_01bb {
+	HEIGHT: 60px; WIDTH: 65px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; COLOR: #2868a3; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 22px; PADDING-RIGHT: 0px
+}
+.cyhd_01ba LI A IMG {
+	HEIGHT: 35px; WIDTH: 35px; FLOAT: left; MARGIN: 8px 15px 0px
+}
+.cyhd_02 {
+	WIDTH: 245px; FLOAT: left
+}
+.cyhd_02 A {
+	HEIGHT: 35px; FLOAT: left; FONT-WEIGHT: bold; COLOR: #357bb7; MARGIN-TOP: 5px; MARGIN-RIGHT: 5px
+}
+.cyhd_02_a {
+	WIDTH: 40px; PADDING-BOTTOM: 0px; PADDING-TOP: 60px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px
+}
+.cyhd_02_b {
+	WIDTH: 40px; PADDING-BOTTOM: 0px; PADDING-TOP: 60px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px
+}
+.cyhd_02_c {
+	WIDTH: 40px; PADDING-BOTTOM: 0px; PADDING-TOP: 60px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px
+}
+.cyhd_02_a {
+	BACKGROUND: url(16.png) no-repeat left top
+}
+.cyhd_02_b {
+	BACKGROUND: url(16.png) no-repeat -67px 0px
+}
+.cyhd_02_c {
+	BACKGROUND: url(16.png) no-repeat -135px 0px
+}
+.cyhd_02_d {
+	WIDTH: 45px; BACKGROUND: url(16.png) no-repeat -203px 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 60px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px
+}
+.shuju_cont {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.del_border {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none
+}
+.del_padding {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.top_margin {
+	MARGIN-TOP: 10px
+}
+.center_form {
+	MARGIN-BOTTOM: 10px; WIDTH: 998px; FLOAT: left
+}
+.center_form TD {
+	FONT-SIZE: 14px; BORDER-TOP: #d9dee0 1px solid; BORDER-RIGHT: #d9dee0 1px solid; BORDER-BOTTOM: #d9dee0 1px solid; PADDING-TOP: 8px; PADDING-LEFT: 8px; BORDER-LEFT: #d9dee0 1px solid; LINE-HEIGHT: 20px
+}
+.form_p {
+	WIDTH: 988px; FLOAT: left; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; LINE-HEIGHT: 22px; PADDING-RIGHT: 10px
+}
+.home_zxfb A.jieduo {
+	FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.home_zxfb A.jieduo IMG {
+	HEIGHT: 16px; WIDTH: auto; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 8px 0px 0px; PADDING-RIGHT: 0px
+}
+.wsbs_06 {
+	FONT-SIZE: 14px; HEIGHT: 40px; FLOAT: left; PADDING-LEFT: 28px; MARGIN-LEFT: 8px; MARGIN-TOP: 8px; LINE-HEIGHT: 45px
+}
+.wsbs_06 {
+	WIDTH: 65px; BACKGROUND: url(aaa.jpg) no-repeat left top
+}
+.tjj_tjzx_wenz {
+	FLOAT: left; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; LINE-HEIGHT: 22px; PADDING-RIGHT: 0px; TEXT-INDENT: 20px
+}
+.tjj_tjzx_wenz IMG {
+	FLOAT: left; MARGIN: 0px 10px
+}
